@@ -1,0 +1,181 @@
+Track,Position,No,Driver,Team,Starting Grid,Laps,Total Time/Gap/Retirement,Points,Fastest Lap
+Austria,1,77,Valtteri Bottas,Mercedes,1,71,1:30:55.739,25,No
+Austria,2,16,Charles Leclerc,Ferrari,7,71,+2.700,18,No
+Austria,3,4,Lando Norris,McLaren Renault,3,71,+5.491,16,Yes
+Austria,4,44,Lewis Hamilton,Mercedes,5,71,+5.689,12,No
+Austria,5,55,Carlos Sainz,McLaren Renault,8,71,+8.903,10,No
+Austria,6,11,Sergio Perez,Racing Point BWT Mercedes,6,71,+15.092,8,No
+Austria,7,10,Pierre Gasly,AlphaTauri Honda,12,71,+16.682,6,No
+Austria,8,31,Esteban Ocon,Renault,14,71,+17.456,4,No
+Austria,9,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,18,71,+21.146,2,No
+Austria,10,5,Sebastian Vettel,Ferrari,11,71,+24.545,1,No
+Austria,11,6,Nicholas Latifi,Williams Mercedes,20,71,+31.650,0,No
+Austria,12,26,Daniil Kvyat,AlphaTauri Honda,13,69,DNF,0,No
+Austria,13,23,Alexander Albon,Red Bull Racing Honda,4,67,DNF,0,No
+Austria,NC,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,19,53,DNF,0,No
+Austria,NC,63,George Russell,Williams Mercedes,17,49,DNF,0,No
+Austria,NC,8,Romain Grosjean,Haas Ferrari,15,49,DNF,0,No
+Austria,NC,20,Kevin Magnussen,Haas Ferrari,16,24,DNF,0,No
+Austria,NC,18,Lance Stroll,Racing Point BWT Mercedes,9,20,DNF,0,No
+Austria,NC,3,Daniel Ricciardo,Renault,10,17,DNF,0,No
+Austria,NC,Max Verstappen,Red Bull Racing Honda,2,11,DNF,0,No
+Styria,1,44,Lewis Hamilton,Mercedes,1,71,1:22:50.683,25,No
+Styria,2,77,Valtteri Bottas,Mercedes,4,71,+13.719,18,No
+Styria,3,33,Max Verstappen,Red Bull Racing Honda,2,71,+33.698,15,No
+Styria,4,23,Alexander Albon,Red Bull Racing Honda,6,71,+44.400,12,No
+Styria,5,4,Lando Norris,McLaren Renault,9,71,+61.470,10,No
+Styria,6,11,Sergio Perez,Racing Point BWT Mercedes,17,71,+62.387,8,No
+Styria,7,18,Lance Stroll,Racing Point BWT Mercedes,12,71,+62.453,6,No
+Styria,8,3,Daniel Ricciardo,Renault,8,71,+62.591,4,No
+Styria,9,55,Carlos Sainz,McLaren Renault,3,70,+1 lap,3,Yes
+Styria,10,26,Daniil Kvyat,AlphaTauri Honda,13,70,+1 lap,1,No
+Styria,11,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,16,70,+1 lap,0,No
+Styria,12,20,Kevin Magnussen,Haas Ferrari,15,70,+1 lap,0,No
+Styria,13,8,Romain Grosjean,Haas Ferrari,20,70,+1 lap,0,No
+Styria,14,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,19,70,+1 lap,0,No
+Styria,15,10,Pierre Gasly,AlphaTauri Honda,7,70,+1 lap,0,No
+Styria,16,63,George Russell,Willams Mercedes,11,69,+2 laps,0,No
+Styria,17,6,Nicholas Latifi,Willams Mercedes,18,69,+2 laps,0,No
+Styira,NC,31,Esteban Ocon,Renault,5,25,DNF,0,No
+Styria,NC,16,Charles Leclerc,Ferrari,14,4,DNF,0,No
+Styria,NC,5,Sebastian Vettel,Ferrari,10,1,DNF,0,No
+Hungary,1,44,Lewis Hamilton,Mercedes,1,70,1:36:12.473,26,Yes
+Hungary,2,33,Max Verstappen,Red Bull Racing Honda,7,70,+8.702,18,No
+Hungary,3,77,Valtteri Bottas,Mercedes,2,70,+9.452,15,No
+Hungary,4,18,Lance Stroll,Racing Point BWT Mercedes,3,70,+57.579,12,No
+Hungary,5,23,Alexander Albon,Red Bull Racing Honda,13,70,+78.316,10,No
+Hungary,6,5,Sebastian Vettel,Ferrari,5,69,+1 lap,8,No
+Hungary,7,11,Sergio Perez,Racing Point BWT Mercedes,4,69,+1 lap,6,No
+Hungary,8,3,Daniel Ricciardo,Renault,11,69,+1 lap,4,No
+Hungary,9,55,Carlos Sainz,McLaren Renault,9,69,+1 lap,2,No
+Hungary,10,20,Kevin Magnussen,Haas Ferrari,16,69,+1 lap,1,No
+Hungary,11,16,Charles Leclerc,Ferrari,6,69,+1 lap,0,No
+Hungary,12,26,Daniil Kvyat,AlphaTauri Honda,17,69,+1 lap,0,No
+Hungary,13,4,Lando Norris,McLaren Renault,8,69,+1 lap,0,No
+Hungary,14,31,Esteban Ocon,Renault,14,69,+1 lap,0,No
+Hungary,15,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,20,69,+1 lap,0,No
+Hungary,16,8,Romain Grosjean,Haas Ferrari,18,69,+1 lap,0,No
+Hungary,17,99,Antonio Giovinazzi,Alfa Romero Racing Ferrari,19,69,+1 lap,0,No
+Hungary,18,63,George Russell,Williams Mercedes,12,69,+1 lap,0,No
+Hungary,19,6,Nicholas Latifi,Williams Mercedes,15,65,+5 laps,0,No
+Hungary,NC,10,Pierre Gasly,AlphaTauri Honda,10,15,DNF,0,No
+Great Britain,1,44,Lewis Hamilton,Mercedes,1,52,1:28:01.283,25,No
+Great Britain,2,33,Max Verstappen,Red Bull Racing Honda,3,52,+5.856,19,Yes
+Great Britain,3,16,Charles Leclerc,Ferrari,4,52,+18.474,15,No
+Great Britain,4,3,Daniel Ricciardo,Renault,8,52,+19.650,12,No
+Great Britain,5,4,Lando Norris,McLaren Renault,5,52,+22.277,10,No
+Great Britain,6,31,Esteban Ocon,Renault,9,52,+26.937,8,No
+Great Britain,7,10,Pierre Gasly,AlphaTauri Honda,11,52,+31.188,6,No
+Great Britain,8,23,Alexander Albon,Red Bull Racing Honda,12,52,+32.670,4,No
+Great Britain,9,18,Lance Stroll,Racing Point BWT Mercedes,6,52,+37.311,2,No
+Great Britain,10,5,Sebastian Vettel,Ferrari,10,52,+41.857,1,No
+Great Britain,11,77,Valtteri Bottas,Mercedes,2,52,+42.167,0,No
+Great Britain,12,63,George Russell,Williams Mercedes,20,52,+52.004,0,No
+Great Britain,13,55,Carlos Sainz,McLaren Renault,7,52,+53.370,0,No
+Great Britain,14,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,15,52,+54.205,0,No
+Great Britain,15,6,Nicholas Latifi,Williams Mercedes,18,52,+54.549,0,No
+Great Britain,16,8,Romain Grosjean,Haas Ferrari,17,52,+55.050,0,No
+Great Britain,17,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,16,51,+1 lap,0,No
+Great Britain,NC,26,Daniil Kvyat,AlphaTauri Honda,19,11,DNF,0,No
+Great Britain,NC,20,Kevin Magnussen,Haas Ferrari,14,1,DNF,0,No
+Great Britain,NC,27,Nico Hulkenberg,Racing Point BWT Mercedes,13,0,DNS,0,No
+70th Anniversary,1,33,Max Verstappen,Red Bull Racing Honda,4,52,1:19:41.993,25,No
+70th Anniversary,2,44,Lewis Hamilton,Mercedes,2,52,+11.326,19,Yes
+70th Anniversary,3,77,Valtteri Bottas,Mercedes,1,52,+19.231,15,No
+70th Anniversary,4,16,Charles Leclerc,Ferrari,8,52,+29.289,12,No
+70th Anniversary,5,23,Alexander Albon,Red Bull Racing Honda,9,52,+39.146,10,No
+70th Anniversary,6,18,Lance Stroll,Racing Point BWT Mercedes,6,52,+42.538,8,No
+70th Anniversary,7,27,Nico Hulkenberg,Racing Point BWT Mercedes,3,52,+55.951,6,No
+70th Anniversary,8,31,Esteban Ocon,Renault,14,52,+64.773,4,No
+70th Anniversary,9,4,Lando Norris,McLaren Renault,10,52,+65.544,2,No
+70th Anniversary,10,26,Daniil Kvyat,AlphaTauri Honda,16,52,+69.669,1,No
+70th Anniversary,11,10,Pierre Gasly,AlphaTauri Honda,7,52,+70.642,0,No
+70th Anniversary,12,5,Sebastian Vettel,Ferrari,11,52,+73.370,0,No
+70th Anniversary,13,55,Carlos Sainz,McLaren Renault,12,52,+74.070,0,No
+70th Anniversary,14,3,Daniel Ricciardo,Renault,5,51,+1 lap,0,No
+70th Anniversary,15,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,20,51,+1 lap,0,No
+70th Anniversary,16,8,Romain Grosjean,Haas Ferrari,13,51,+1 lap,0,No
+70th Anniversary,17,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,19,51,+1 lap,0,No
+70th Anniversary,18,63,George Russell,Williams Mercedes,15,51,+1 lap,0,No
+70th Anniversary,19,6,Nicholas Latifi,Williams Mercedes,18,51,+1 lap,0,No
+70th Anniversary,NC,20,Kevin Magnussen,Haas Ferrari,17,43,DNF,0,No
+Spain,1,44,Lewis Hamilton,Mercedes,1,66,1:31:45.279,25,No
+Spain,2,33,Max Verstappen,Red Bull Racing Honda,3,66,+24.177,18,No
+Spain,3,77,Valtteri Bottas,Mercedes,2,66,+44.752,16,Yes
+Spain,4,18,Lance Stroll,Racing Point BWT Mercedes,5,65,+1 lap,12,No
+Spain,5,11,Sergio Perez,Racing Point BWT Mercedes,4,65,+1 lap,10,No
+Spain,6,55,Carlos Sainz,McLaren Renault,7,65,+1 lap,8,No
+Spain,7,5,Sebastian Vettel,Ferrari,11,65,+1 lap,6,No
+Spain,8,23,Alexander Albon,Red Bull Racing Honda,6,65,+1 lap,4,No
+Spain,9,10,Pierre Gasly,AlphaTauri Honda,10,65,+1 lap,2,No
+Spain,10,4,Lando Norris,McLaren Renault,8,65,+1 lap,1,No
+Spain,11,3,Daniel Ricciardo,Renault,13,65,+1 lap,0,No
+Spain,12,26,Daniil Kvyat,AlphaTauri Honda,12,65,+1 lap,0,No
+Spain,13,31,Esteban Ocon,Renault,15,65,+1 lap,0,No
+Spain,14,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,14,65,+1 lap,0,No
+Spain,15,20,Kevin Magnussen,Haas Ferrari,16,65,+1 lap,0,No
+Spain,16,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,20,65,+1 lap,0,No
+Spain,17,63,George Russell,Williams Mercedes,18,65,+1 lap,0,No
+Spain,18,6,Nicholas Latifi,Williams Mercedes,19,64,+2 laps,0,No
+Spain,19,8,Romain Grosjean,Haas Ferrari,17,64,+2 laps,0,No
+Spain,NC,16,Charles Leclerc,Ferrari,9,38,DNF,0,No
+Belgium,1,44,Lewis Hamilton,Mercedes,1,44,1:24:08.761,25,No
+Belgium,2,77,Valtteri Bottas,Mercedes,2,44,+8.448,18,No
+Belgium,3,33,Max Verstappen,Red Bull Racing Honda,3,44,+15.455,15,No
+Belgium,4,3,Daniel Ricciardo,Renault,4,44,+18.877,13,Yes
+Belgium,5,31,Esteban Ocon,Renault,6,44,+40.650,10,No
+Belgium,6,23,Alexander Albon,Red Bull Racing Honda,5,44,+42.712,8,No
+Belgium,7,4,Lando Norris,McLaren Renault,10,44,+43.774,6,No
+Belgium,8,10,Pierre Gasly,AlphaTauri Honda,12,44,+47.371,4,No
+Belgium,9,18,Lance Stroll,Racing Point BWT Mercedes,9,44,+52.603,2,No
+Belgium,10,11,Sergio Perez,Racing Point BWT Mercedes,8,44,+53.179,1,No
+Belgium,11,26,Daniil Kvyat,AlphaTauri Honda,11,44,+70.200,0,No
+Belgium,12,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,16,44,+71.504,0,No
+Belgium,13,5,Sebastian Vettel,Ferrari,14,44,+72.894,0,No
+Belgium,14,16,Charles Leclerc,Ferrari,13,44,+74.920,0,No
+Belgium,15,8,Romain Grosjean,Haas Ferrari,17,44,+76.793,0,No
+Belgium,16,6,Nicholas Latifi,Williams Mercedes,19,44,+77.795,0,No
+Belgium,17,20,Kevin Magnussen,Haas Ferrari,20,44,+85.540,0,No
+Belgium,NC,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,18,9,DNF,0,No
+Belgium,NC,63,George Russell,Williams Mercedes,15,9,DNF,0,No
+Belgium,NC,55,Carlos Sainz,McLaren Renault,7,0,DNS,0,No
+Italy,1,10,Pierre Gasly,AlphaTauri Honda,1,53,1:47:06.056,25,No
+Italy,2,55,Carlos Sainz,McLaren Renault,3,53,+0.415,18,No
+Italy,3,18,Lance Stroll,Racing Point BWT Mercedes,8,53,+3.358,15,No
+Italy,4,4,Lando Norris,McLaren Renault,6,53,+6.000,12,No
+Italy,5,77,Valtteri Bottas,Mercedes,2,53,+7.108,10,No
+Italy,6,3,Daniel Ricciardo,Renault,7,53,+8.391,8,No
+Italy,7,44,Lewis Hamilton,Mercedes,1,53,+17.245,7,Yes
+Italy,8,31,Esteban Ocon,Renault,12,53,+18.691,4,No
+Italy,9,26,Daniil Kvyat,AlphaTauri Honda,11,53,+22.208,2,No
+Italy,10,11,Sergio Perez,Racing Point BWT Mercedes,4,53,+23.224,1,No
+Italy,11,6,Nicholas Latifi,Williams Mercedes,20,53,+32.876,0,No
+Italy,12,8,Romain Grosjean,Haas Ferrari,16,53,+35.164,0,No
+Italy,13,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,14,53,+36.312,0,No
+Italy,14,63,George Russell,Williams Mercedes,19,53,+36.593,0,No
+Italy,15,23,Alexander Albon,Red Bull Racing Honda,9,53,+37.533,0,No
+Italy,16,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,18,53,+55.199,0,No
+Italy,NC,33,Max Verstappen,Red Bull Racing Honda,5,30,DNF,0,No
+Italy,NC,16,Charles Leclerc,Ferrari,13,23,DNF,0,No
+Italy,NC,20,Kevin Magnussen,Haas Ferrari,15,17,DNF,0,No
+Italy,NC,5,Sebastian Vettel,Ferrari,17,6,DNF,0,No
+Tuscany,1,44,Lewis Hamilton,Mercedes,1,59,2:19:35.060,26,Yes
+Tuscany,2,77,Valtteri Bottas,Mercedes,2,59,+4.880,18,No
+Tuscany,3,23,Alexander Albon,Red Bull Racing Honda,4,59,+8.064,15,No
+Tuscany,4,3,Daniel Ricciardo,Renault,8,59,+10.417,12,No
+Tuscany,5,11,Sergio Perez,Racing Point BWT Mercedes,7,59,+15.650,10,No
+Tuscany,6,4,Lando Norris,McLaren Renault,11,59,+18.883,8,No
+Tuscany,7,26,Daniil Kvyat,AlphaTauri Honda,12,59,+21.756,6,No
+Tuscany,8,16,Charles Leclerc,Ferrari,5,59,+28.345,4,No
+Tuscany,9,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,13,59,+29.770,2,No
+Tuscany,10,5,Sebastian Vettel,Ferrari,14,59,+29.983,1,No
+Tuscany,11,63,George Russell,Williams Mercedes,18,59,+32.404,0,No
+Tuscany,12,8,Romain Grosjean,Haas Ferrari,15,59,+42.036,0,No
+Tuscany,NC,18,Lance Stroll,Racing Point BWT Mercedes,6,42,DNF,0,No
+Tuscany,NC,31,Esteban Ocon,Renault,10,7,DNF,0,No
+Tuscany,NC,6,Nicholas Latifi,Williams Mercedes,19,6,DNF,0,No
+Tuscany,NC,20,Kevin Magnussen,Haas Ferrari,20,5,DNF,0,No
+Tuscany,NC,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,17,5,DNF,0,No
+Tuscany,NC,55,Carlos Sainz,McLaren Renault,9,5,DNF,0,No
+Tuscany,NC,33,Max Verstappen,Red Bull Racing Honda,3,0,DNF,0,No
+Tuscany,NC,10,Pierre Gasly,AlphaTauri Honda,16,0,DNF,0,No
