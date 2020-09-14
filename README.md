@@ -18,6 +18,7 @@ In the beginning, there are three datasets uploaded here:
 - 2019 Season Race Results
 - 2019 Season Drivers
 - 2019 Season Race Tracks
+- 2020 Season Race Results (first 9 races)
 
 **Applied data analysis is now available for 2019 Season!** Please click on the related file to inspect: _F1_2019season_analysis.ipynb_.
 
