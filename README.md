@@ -12,9 +12,9 @@ All these data are obtained from Formula 1 Official [Web Site](https://www.formu
 
 ### Featured Datasets
 
-In the beginning, there are three datasets uploaded here:
+Here are the datasets uploaded:
 
-- 2020 Driver Ratings from Codemasters F1 2020 Official Video Game
+- 2020 Driver Ratings from Codemasters F1 2020 Official Video Game (including October 2020 update)
 - 2019 Season Race Results
 - 2019 Season Drivers
 - 2019 Season Race Tracks
