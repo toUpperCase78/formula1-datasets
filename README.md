@@ -17,7 +17,7 @@ Here are the datasets uploaded:
 - 2019 Season Race Results (All Races)
 - 2019 Season Drivers
 - 2019 Season Race Tracks
-- 2020 Season Race Results (15 out of 17 Races)
+- 2020 Season Race Results (16 out of 17 Races)
 - 2020 Driver Ratings from Codemasters F1 2020 Official Video Game (including October 2020 rating update)
 
 **Applied data analysis is now available for 2019 Season!** Please click on the related file to inspect: _F1_2019season_analysis.ipynb_.
