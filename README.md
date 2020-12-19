@@ -12,18 +12,24 @@ All these data are obtained from Formula 1 Official [Web Site](https://www.formu
 
 ### Featured Datasets
 
-Here are the datasets uploaded:
+Here are the datasets you can find:
 
 - 2019 Season Race Results (All Races)
 - 2019 Season Drivers
 - 2019 Season Race Tracks
-- 2020 Season Race Results (16 out of 17 Races)
+- 2020 Season Race Results (All Races)
+- 2020 Season Drivers
+- 2020 Season Race Tracks
 - 2020 Driver Ratings from Codemasters F1 2020 Official Video Game (including October 2020 rating update)
 
-**Applied data analysis is now available for 2019 Season!** Please click on the related file to inspect: _F1_2019season_analysis.ipynb_.
+### Season Analyses
+
+**Analysis is available for 2019 Season!** Please click on the related file to inspect: _F1_2019season_analysis.ipynb_.
+
+Analysis for 2020 Season will be uploaded here soon...
 
 ### Future Plans
 
-I'm planning to add more datasets which contain results from previous seasons.
+I'm planning to add more datasets which contain results from previous seasons (2018 and before).
 
-Moreover, when more races are completed for 2020 Season, they will be available in the corresponding dataset.
+Plus, waiting for 2021 Season to place up-to-date information...
