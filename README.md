@@ -19,7 +19,7 @@ Here are the datasets you can find:
 - 2019 Season Race Tracks
 - 2020 Season Race Results (All Races)
 - 2020 Season Drivers
-- 2020 Season Race Tracks
+- 2020 Season Race Calendar
 - 2020 Driver Ratings from Codemasters F1 2020 Official Video Game (including October 2020 rating update)
 
 ### Season Analyses
@@ -32,4 +32,4 @@ Analysis for 2020 Season will be uploaded here soon...
 
 I'm planning to add more datasets which contain results from previous seasons (2018 and before).
 
-Plus, waiting for 2021 Season to place up-to-date information...
+Plus, waiting for 2021 Season to start...
