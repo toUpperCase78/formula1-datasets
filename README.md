@@ -20,7 +20,7 @@ Here are the datasets you can find:
 - 2020 Season Race Results (All Races)
 - 2020 Season Drivers
 - 2020 Season Race Calendar
-- 2020 Driver Ratings from Codemasters F1 2020 Official Video Game (including October 2020 rating update)
+- 2020 Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
 
 ### Season Analyses
 
