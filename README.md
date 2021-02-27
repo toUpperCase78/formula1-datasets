@@ -6,11 +6,11 @@
 
 Hello there! Here is my dataset project about Formula 1 World Championship, which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
 
-As I like data science nowadays and have been following F1 for over a decade, then I've decided to create some appropriate datasets to enable analyses on drivers and teams in terms of their race results throughout the seasons.
+As a data science enthusiat and following F1 for over a decade, then I've decided to create appropriate datasets to enable analyses on drivers and teams in terms of their race results throughout the seasons.
 
 All these data are obtained from Formula 1 Official [Web Site](https://www.formula1.com/), plus Codemasters F1 Games.
 
-### Featured Datasets
+## Featured Datasets
 
 Here are the datasets you can find:
 
@@ -22,14 +22,14 @@ Here are the datasets you can find:
 - 2020 Season Race Calendar
 - 2020 Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
 
-### Season Analyses
+## Season Analyses
 
-**Analysis is available for 2019 Season!** Please click on the related file to inspect: _F1_2019season_analysis.ipynb_.
+**Analyses are available for 2020 Season!** Please click on the related file to read everything: _F1_2020season_analysis.ipynb_.
 
-Analysis for 2020 Season will be uploaded here soon...
+Also, you may want to check the analyses for 2019 Season with _F1_2019season_analysis.ipynb_.
 
-### Future Plans
+## Future Plans
 
 I'm planning to add more datasets which contain results from previous seasons (2018 and before).
 
-Plus, waiting for 2021 Season to start...
+Plus, waiting for 2021 Season to start, so a new dataset will be here to store the results accordingly...
