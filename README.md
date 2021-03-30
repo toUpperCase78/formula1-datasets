@@ -21,6 +21,7 @@ Here are the datasets you can find:
 - 2020 Season Drivers
 - 2020 Season Race Calendar
 - 2020 Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
+- 2021 Season Race Results (1 out of 23 Races)
 
 ## Season Analyses
 
@@ -32,4 +33,4 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 I'm planning to add more datasets which contain results from previous seasons (2018 and before).
 
-Plus, waiting for 2021 Season to start, so a new dataset will be here to store the results accordingly...
+The 2021 season has officially begun, thus race results will be added to the corresponding dataset over time.
