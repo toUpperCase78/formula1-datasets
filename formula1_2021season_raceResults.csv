@@ -48,7 +48,7 @@ Portugal,6,16,Charles Leclerc,Ferrari,8,66,+55.781,8,No,1:21.496
 Portugal,7,31,Esteban Ocon,Alpine Renault,6,66,+63.749,6,No,1:21.886
 Portugal,8,14,Fernando Alonso,Alpine Renault,13,66,+64.808,4,No,1:21.032
 Portugal,9,3,Daniel Ricciardo,McLaren Mercedes,16,66,+75.369,2,No,1:21.987
-Portugal,10,10,Pierre Gasly,AlphaTarui Honda,9,66,+76.463,1,No,1:22.014
+Portugal,10,10,Pierre Gasly,AlphaTauri Honda,9,66,+76.463,1,No,1:22.014
 Portugal,11,55,Carlos Sainz,Ferrari,5,66,+78.955,0,No,1:22.325
 Portugal,12,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,12,65,+1 lap,0,No,1:22.167
 Portugal,13,5,Sebastian Vettel,Aston Martin Mercedes,10,65,+1 lap,0,No,1:22.416
@@ -79,3 +79,23 @@ Spain,17,14,Fernando Alonso,Alpine Renault,10,65,+1 lap,0,No,1:21.182
 Spain,18,47,Mick Schumacher,Haas Ferrari,18,64,+2 laps,0,No,1:22.637
 Spain,19,9,Nikita Mazepin,Haas Ferrari,20,64,+2 laps,0,No,1:24.040
 Spain,NC,22,Yuki Tsunoda,AlphaTauri Honda,16,6,DNF,0,No,1:24.825
+Monaco,1,33,Max Verstappen,Red Bull Racing Honda,2,78,1:38:56.820,25,No,1:14.649
+Monaco,2,55,Carlos Sainz,Ferrari,4,78,+8.968,18,No,1:14.621
+Monaco,3,4,Lando Norris,McLaren Mercedes,5,78,+19.427,15,No,1:14.670
+Monaco,4,11,Sergio Perez,Red Bull Racing Honda,9,78,+20.490,12,No,1:14.552
+Monaco,5,5,Sebastian Vettel,Aston Martin Mercedes,8,78,+52.591,10,No,1:15.316
+Monaco,6,10,Pierre Gasly,AlphaTauri Honda,6,78,+53.896,8,No,1:15.412
+Monaco,7,44,Lewis Hamilton,Mercedes,7,78,+68.231,7,Yes,1:12.909
+Monaco,8,18,Lance Stroll,Aston Martin Mercedes,13,77,+1 lap,4,No,1:14.674
+Monaco,9,31,Esteban Ocon,Alpine Renault,11,77,+1 lap,2,No,1:15.316
+Monaco,10,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,10,77,+1 lap,1,No,1:15.331
+Monaco,11,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,14,77,+1 lap,0,No,1:14.971
+Monaco,12,3,Daniel Ricciardo,McLaren Mercedes,12,77,+1 lap,0,No,1:14.578
+Monaco,13,14,Fernando Alonso,Alpine Renault,17,77,+1 lap,0,No,1:15.026
+Monaco,14,63,George Russell,Williams Mercedes,15,77,+1 lap,0,No,1:15.539
+Monaco,15,6,Nicholas Latifi,Williams Mercedes,18,77,+1 lap,0,No,1:15.373
+Monaco,16,22,Yuki Tsunoda,AlphaTauri Honda,16,77,+1 lap,0,No,1:14.037
+Monaco,17,9,Nikita Mazepin,Haas Ferrari,19,75,+3 laps,0,No,1:16.866
+Monaco,18,47,Mick Schumacher,Haas Ferrari,20,75,+3 laps,0,No,1:16.425
+Monaco,NC,77,Valtteri Bottas,Mercedes,3,29,DNF,0,No,1:15.706
+Monaco,NC,16,Charles Leclerc,Ferrari,1,0,DNS,0,No,N/A
