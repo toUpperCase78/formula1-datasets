@@ -1,21 +1,21 @@
 Track,Position,No,Driver,Team,Starting Grid,Laps,Time/Retired,Points
-Great Britain,1,33,Max Verstappen,Red Bull Racing Honda,,17,25:38.426,3
-Great Britain,2,44,Lewis Hamilton,Mercedes,,17,+1.430,2
-Great Britain,3,77,Valtteri Bottas,Mercedes,,17,+7.502,1
-Great Britain,4,16,Charles Leclerc,Ferrari,,17,+11.278,0
-Great Britain,5,4,Lando Norris,McLaren Mercedes,,17,+24.111,0
-Great Britain,6,3,Daniel Ricciardo,McLaren Mercedes,,17,+30.959,0
-Great Britain,7,14,Fernando Alonso,Alpine Renault,,17,+43.527,0
-Great Britain,8,5,Sebastian Vettel,Aston Martin Mercedes,,17,+44.439,0
-Great Britain,9,63,George Russell,Williams Mercedes,,17,+46.652,0
-Great Britain,10,31,Esteban Ocon,Alpine Renault,,17,+47.395,0
-Great Britain,11,55,Carlos Sainz,Ferrari,,17,+47.798,0
-Great Britain,12,10,Pierre Gasly,AlphaTauri Honda,,17,+48.763,0
-Great Britain,13,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,,17,+50.677,0
-Great Britain,14,18,Lance Stroll,Aston Martin Mercedes,,17,+52.179,0
-Great Britain,15,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,,17,+53.225,0
-Great Britain,16,22,Yuki Tsunoda,AlphaTauri Honda,,17,+53.567,0
-Great Britain,17,6,Nicholas Latifi,Williams Mercedes,,17,+55.162,0
-Great Britain,18,47,Mick Schumacher,Haas Ferrari,,17,+68.213,0
-Great Britain,19,9,Nikita Mazepin,Haas Ferrari,17,+77.648,0
-Great Britain,20,11,Sergio Perez,Red Bull Racing Honda,,16,DNF,0
+Great Britain,1,33,Max Verstappen,Red Bull Racing Honda,2,17,25:38.426,3
+Great Britain,2,44,Lewis Hamilton,Mercedes,1,17,+1.430,2
+Great Britain,3,77,Valtteri Bottas,Mercedes,3,17,+7.502,1
+Great Britain,4,16,Charles Leclerc,Ferrari,4,17,+11.278,0
+Great Britain,5,4,Lando Norris,McLaren Mercedes,6,17,+24.111,0
+Great Britain,6,3,Daniel Ricciardo,McLaren Mercedes,7,17,+30.959,0
+Great Britain,7,14,Fernando Alonso,Alpine Renault,11,17,+43.527,0
+Great Britain,8,5,Sebastian Vettel,Aston Martin Mercedes,10,17,+44.439,0
+Great Britain,9,63,George Russell,Williams Mercedes,8,17,+46.652,0
+Great Britain,10,31,Esteban Ocon,Alpine Renault,13,17,+47.395,0
+Great Britain,11,55,Carlos Sainz,Ferrari,9,17,+47.798,0
+Great Britain,12,10,Pierre Gasly,AlphaTauri Honda,12,17,+48.763,0
+Great Britain,13,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,17,17,+50.677,0
+Great Britain,14,18,Lance Stroll,Aston Martin Mercedes,15,17,+52.179,0
+Great Britain,15,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,14,17,+53.225,0
+Great Britain,16,22,Yuki Tsunoda,AlphaTauri Honda,16,17,+53.567,0
+Great Britain,17,6,Nicholas Latifi,Williams Mercedes,18,17,+55.162,0
+Great Britain,18,47,Mick Schumacher,Haas Ferrari,19,17,+68.213,0
+Great Britain,19,9,Nikita Mazepin,Haas Ferrari,20,17,+77.648,0
+Great Britain,20,11,Sergio Perez,Red Bull Racing Honda,5,16,DNF,0
