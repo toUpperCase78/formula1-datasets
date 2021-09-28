@@ -4,9 +4,9 @@
 
 ![F1 logo](https://i.ibb.co/0Cv5J79/f1-logo-present.png)
 
-Hello there! Here is my repository about Formula 1 World Championship, which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
+Hello there! You've come to my repository about Formula 1 World Championship, which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
 
-As a data science enthusiast and have been following F1 for almost two decades, I'm here to prepare the appropriate datasets to enable analyses on drivers and teams in terms of their race results throughout the seasons.
+As a data science enthusiast and have been following F1 for almost two decades, my objective here is to prepare the datasets to enable analyses on drivers and teams in terms of their race results throughout the seasons.
 
 All these data are obtained from Formula 1 Official [Web Site](https://www.formula1.com/), plus Codemasters F1 Games.
 
