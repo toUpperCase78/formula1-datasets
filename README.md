@@ -22,8 +22,8 @@ Here are the datasets you can find:
 - 2020 Season Race Calendar
 - 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
 - 2021 Season Driver Ratings from EA & Codemasters F1 2021 Official Video Game (Initial)
-- 2021 Season Race Results (18 of 22 Races)
-- 2021 Season Sprint Qualifying Results (2 of 3 Races)
+- 2021 Season Race Results (19 of 22 Races)
+- 2021 Season Sprint Qualifying Results (3 of 3 Races)
 
 ## Season Analyses
 
