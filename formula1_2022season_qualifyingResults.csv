@@ -1,0 +1,41 @@
+Track,Position,No,Driver,Team,Q1,Q2,Q3,Laps
+Bahrain,1,16,Charles Leclerc,Ferrari,1:31.471,1:30.932,1:30.558,15
+Bahrain,2,1,Max Verstappen,Red Bull Racing RBPT,1:31.785,1:30.757,1:30.681,14
+Bahrain,3,55,Carlos Sainz,Ferrari,1:31.567,1:30.787,1:30.687,15
+Bahrain,4,11,Sergio Perez,Red Bull Racing RBPT,1:32.311,1:31.008,1:30.921,18
+Bahrain,5,44,Lewis Hamilton,Mercedes,1:32.285,1:31.048,1:31.238,17
+Bahrain,6,77,Valtteri Bottas,Alfa Romeo Ferrari,1:31.919,1:31.717,1:31.560,15
+Bahrain,7,20,Kevin Magnussen,Haas Ferrari,1:31.955,1:31.461,1:31.808,12
+Bahrain,8,14,Fernando Alonso,Alpine Renault,1:32.346,1:31.621,1:32.195,14
+Bahrain,9,63,George Russell,Mercedes,1:32.269,1:31.252,1:32.216,17
+Bahrain,10,10,Pierre Gasly,AlphaTauri RBPT,1:32.096,1:31.635,1:32.338,21
+Bahrain,11,31,Esteban Ocon,Alpine Renault,1:32.041,1:31.782,,12
+Bahrain,12,47,Mick Schumacher,Haas Ferrari,1:32.380,1:31.998,,11
+Bahrain,13,4,Lando Norris,McLaren Mercedes,1:32.239,1:32.008,,14
+Bahrain,14,23,Alexander Albon,Williams Mercedes,1:32.726,1:32.664,,13
+Bahrain,15,24,Guanyu Zhou,Alfa Romeo Ferrari,1:32.493,1:33.543,,12
+Bahrain,16,22,Yuki Tsunoda,AlphaTauri RBPT,1:32.750,,,8
+Bahrain,17,27,Nico Hulkenberg,Aston Martin Aramco Mercedes,1:32.777,,,6
+Bahrain,18,3,Daniel Ricciardo,McLaren Mercedes,1:32.945,,,8
+Bahrain,19,18,Lance Stroll,Aston Martin Aramco Mercedes,1:33.032,,,6
+Bahrain,20,6,Nicholas Latifi,Williams Mercedes,1:33.634,,,8
+Saudi Arabia,1,11,Sergio Perez,Red Bull Racing RBPT,1:29.705,1:28.924,1:28.200,20
+Saudi Arabia,2,16,Charles Leclerc,Ferrari,1:29.039,1:28.780,1:28.225,22
+Saudi Arabia,3,55,Carlos Sainz,Ferrari,1:28.855,1:28.6886,1:28.402,23
+Saudi Arabia,4,1,Max Verstappen,Red Bull Racing RBPT,1:28.928,1:28.945,1:28.461,22
+Saudi Arabia,5,31,Esteban Ocon,Alpine Renault,1:30.093,1:29.584,1:29.068,19
+Saudi Arabia,6,63,George Russell,Mercedes,1:29.680,1:29.618,1:29.104,21
+Saudi Arabia,7,14,Fernando Alonso,Alpine Renault,1:29.978,1:29.295,1:29.147,20
+Saudi Arabia,8,77,Valtteri Bottas,Alfa Romeo Ferrari,1:29.683,1:29.404,1:29.183,22
+Saudi Arabia,9,10,Pierre Gasly,AlphaTauri RBPT,1:29.891,1:29.418,1:29.254,22
+Saudi Arabia,10,20,Kevin Magnussen,Haas Ferrari,1:29.831,1:29.546,1:29.588,24
+Saudi Arabia,11,4,Lando Norris,McLaren Mercedes,1:29.957,1:29.651,,16
+Saudi Arabia,12,3,Daniel Ricciardo,McLaren Mercedes,1:30.009,1:29.773,,17
+Saudi Arabia,13,24,Guanyu Zhou,Alfa Romeo Ferrari,1:29.978,1:29.819,,17
+Saudi Arabia,14,47,Mick Schumacher,Haas Ferrari,1:30.167,1:29.920,,13
+Saudi Arabia,15,18,Lance Stroll,Aston Martin Aramco Mercedes,1:30.256,1:31.009,,15
+Saudi Arabia,16,44,Lewis Hamilton,Mercedes,1:30.343,,,11
+Saudi Arabia,17,23,Alexander Albon,Williams Mercedes,1:30.492,,,9
+Saudi Arabia,18,27,Nico Hulkenberg,Aston Martin Aramco Mercedes,1:30.543,,,10
+Saudi Arabia,19,6,Nicholas Latifi,Williams Mercedes,1:31.817,,,4
+Saudi Arabia,NC,22,Yuki Tsunoda,AlphaTauri RBPT,DNS,,,2
