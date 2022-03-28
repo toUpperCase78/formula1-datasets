@@ -16,7 +16,8 @@ All these data are obtained from Formula 1 Official [Web Site](https://www.formu
 
 Here are the datasets you can find:
 
-- 2019, 2020 & 2021 Season Race Results (All Races)
+- 2019, 2020, 2021 & 2022 Season Race Results (All Races)
+- 2022 Season Qualifying Results
 - 2019, 2020 & 2021 Season Drivers
 - 2019, 2020 & 2021 Season Race Calendar
 - 2021 Season Sprint Qualifying Results (3 of 3)
@@ -34,6 +35,6 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 ## Future Plans
 
-I'm planning to add more datasets which contain results from previous seasons (2018 and before).
+**Lights out and away we go for 2022 Season!** Thus, the corresponding dataset that holds the race results will constantly get updated this year.
 
-Plus, I'm waiting for 2022 Season to start, so new datasets will be on the way...
+Plus, for the first time, **qualifying results** will be available. Don't hesitate to check that out.
