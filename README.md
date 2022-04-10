@@ -16,12 +16,12 @@ All these data are obtained from Formula 1 Official [Web Site](https://www.formu
 
 Here are the datasets you can find:
 
-- 2019, 2020, 2021 & 2022 Season Race Results (All Races)
-- 2022 Season Qualifying Results
-- 2019, 2020 & 2021 Season Drivers
-- 2019, 2020 & 2021 Season Race Calendar
-- 2021 Season Sprint Qualifying Results (3 of 3)
+- 2019 - 2021 Season Race Calendar
+- 2019 - 2021 Season Drivers
 - 2021 Season Teams
+- 2021 Season Sprint Qualifying Results
+- 2022 Season Qualifying Results
+- 2019 - 2022 Season Race Results
 - 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
 - 2021 Season Driver Ratings from EA & Codemasters F1 2021 Official Video Game (Initial & January 2022)
 
@@ -37,4 +37,4 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 **Lights out and away we go for 2022 Season!** Thus, the corresponding dataset that holds the race results will constantly get updated this year.
 
-Plus, for the first time, **qualifying results** will be available. Don't hesitate to check that out.
+Plus, for the first time, **qualifying results of this season** will be available. Don't hesitate to check that out!
