@@ -194,7 +194,7 @@ Great Britain,12,63,George Russell,Williams Mercedes,12,51,+1 lap,0,No,1:32.049
 Great Britain,13,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,15,51,+1 lap,0,No,1:32.346
 Great Britain,14,6,Nicholas Latifi,Williams Mercedes,17,51,+1 lap,0,No,1:32.477
 Great Britain,15,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,13,51,+1 lap,0,No,1:31.895
-Great Britain,16,11,Sergio Perez,Red Bull Racing Honda,20,51,+1 lap,0,Yes,1:28.617
+Great Britain,16,11,Sergio Perez,Red Bull Racing Honda,20,51,+1 lap,0,No,1:28.617
 Great Britain,17,9,Nikita Mazepin,Haas Ferrari,19,51,+1 lap,0,No,1:32.909
 Great Britain,18,47,Mick Schumacher,Haas Ferrari,18,51,+1 lap,0,No,1:32.862
 Great Britain,NC,5,Sebastian Vettel,Aston Martin Mercedes,8,40,DNF,0,No,1:33.059
@@ -353,7 +353,7 @@ Mexico,11,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,11,70,+1 lap,0,No,1:21
 Mexico,12,3,Daniel Ricciardo,McLaren Mercedes,7,70,+1 lap,0,No,1:21.069
 Mexico,13,31,Esteban Ocon,Alpine Renault,19,70,+1 lap,0,No,1:21.348
 Mexico,14,18,Lance Stroll,Aston Martin Mercedes,20,69,+2 laps,0,No,1:20.930
-Mexico,15,77,Valtteri Bottas,Mercedes,1,69,+2 laps,0,Yes,1:17.774
+Mexico,15,77,Valtteri Bottas,Mercedes,1,69,+2 laps,0,No,1:17.774
 Mexico,16,63,George Russell,Williams Mercedes,16,69,+2 laps,0,No,1:22.016
 Mexico,17,6,Nicholas Latifi,Williams Mercedes,13,69,+2 laps,0,No,1:21.546
 Mexico,18,9,Nikita Mazepin,Haas Ferrari,15,68,+3 laps,0,No,1:21.402
@@ -397,7 +397,7 @@ Qatar,15,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,18,56,+1 lap,0,No,1:27.
 Qatar,16,47,Mick Schumacher,Haas Ferrari,19,56,+1 lap,0,No,1:28.412
 Qatar,17,63,George Russell,Williams Mercedes,15,55,+2 laps,0,No,1:25.768
 Qatar,18,9,Nikita Mazepin,Haas Ferrari,20,55,+2 laps,0,No,1:27.340
-Qatar,NC,6,Nicholas Latifi,Williams Ferrari,17,50,DNF,0,No,1:28.732
+Qatar,NC,6,Nicholas Latifi,Williams Mercedes,17,50,DNF,0,No,1:28.732
 Qatar,NC,77,Valtteri Bottas,Mercedes,6,48,DNF,0,No,1:27.246
 Saudi Arabia,1,44,Lewis Hamilton,Mercedes,1,50,2:06:15.118,26,Yes,1:30.734
 Saudi Arabia,2,33,Max Verstappen,Red Bull Racing Honda,3,50,+21.825,18,No,1:31.488
