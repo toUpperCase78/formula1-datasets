@@ -28,7 +28,7 @@ Here are the datasets you can find:
 
 ## Season Analyses
 
-**2021 Season analysis is in progress; thus it will be available here in the future!**
+**2021 Season analyses is FINALLY HERE! It is fully worthwhile to read everything to learn what happened in the previous season!** Please, click on the file _F1_2021Season_Analysis.ipynb_ and I'm sure you'll be satisfied!
 
 Meanwhile, you can read everything about the 2020 Season analyses by clicking on the related file: _F1_2020season_analysis.ipynb_.
 
@@ -38,4 +38,4 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 **Lights out and away we go for 2022 Season!** Thus, the corresponding dataset that holds the race results will constantly get updated this year, including the sprint race results.
 
-Plus, for the first time, **qualifying results of this season** will be available. Don't hesitate to check that out!
+Plus, for the first time, dataset for **qualifying results of 2022 season** is available. Don't hesitate to check that out!
