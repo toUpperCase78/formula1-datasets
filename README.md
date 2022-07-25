@@ -10,7 +10,7 @@ As a data science enthusiast and have been following F1 for almost two decades, 
 
 ## Source
 
-All these data are obtained from Formula 1 Official [Web Site](https://www.formula1.com/), plus EA & Codemasters F1 Games.
+All these data are obtained from Formula 1 Official [Web Site](https://www.formula1.com/), plus EA & Codemasters F1 Games for driver ratings [here](https://www.ea.com/games/f1/f1-22/driver-ratings/ratings-database?isLocalized=true).
 
 ## Featured Datasets
 
@@ -25,6 +25,7 @@ Here are the datasets you can find:
 - 2019 - 2022 Season Race Results
 - 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
 - 2021 Season Driver Ratings from EA & Codemasters F1 2021 Official Video Game (Initial & January 2022)
+- 2022 Season Driver Ratings from EA & Codemasters F1 22 Video Game (Initial)
 
 ## Season Analyses
 
