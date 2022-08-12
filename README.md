@@ -37,10 +37,12 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 ## IMPORTANT!
 
-_If you'd like to use these datasets and wish to perform your own analyses, please first inform me via e-mail, provide a link for your related work and don't forget to put a reference to this repo._ **Thank you in advance...**
+_If you'd like to use these datasets and wish to perform your own analyses in your works, please inform me via e-mail and don't forget to put a reference to this repo._ **Thank you in advance...**
 
 ## Future Plans
 
 **Lights out and away we go for 2022 Season!** Thus, the corresponding dataset that holds the race results will constantly get updated this year, including the sprint race results.
 
 Plus, for the first time, dataset for **qualifying results of 2022 season** is available. Don't hesitate to check that out!
+
+Meanwhile, race results of 2018 and previous seasons might be loaded in time and placed in a separate folder.
