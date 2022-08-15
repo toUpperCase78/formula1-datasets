@@ -29,7 +29,7 @@ Here are the datasets you can find:
 
 ## Season Analyses
 
-**2021 Season analyses is FINALLY HERE! It is fully worthwhile to read everything to learn what happened in the previous season!** Please, click on the file _F1_2021Season_Analysis.ipynb_ and I'm sure you'll be satisfied!
+**2021 Season analyses is FINALLY HERE! It is fully worthwhile to read everything to learn what happened in the previous season!** Click on the file _F1_2021Season_Analysis.ipynb_ and I'm sure you'll be satisfied!
 
 Meanwhile, you can read everything about the 2020 Season analyses by clicking on the related file: _F1_2020season_analysis.ipynb_.
 
@@ -37,7 +37,7 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 ## IMPORTANT!
 
-_If you'd like to use these datasets and wish to perform your own analyses in your works, please inform me via e-mail and don't forget to put a reference to this repo._ **Thank you in advance...**
+_If you'd like to use these datasets and wish to perform your own analyses in your works, please don't forget to put a reference to this repo._ **Thank you in advance...**
 
 ## Future Plans
 
