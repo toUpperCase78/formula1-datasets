@@ -14,7 +14,7 @@ All these data are obtained from Formula 1 Official [Web Site](https://www.formu
 
 ## IMPORTANT!
 
-_If you'd like to use these datasets and wish to perform your own analyses in your works, please don't forget to put a reference to this repo._ **Thank you in advance...**
+_If you'd like to use these datasets and wish to perform your own analyses in your works, please don't forget to put a reference for the original owner's (**toUpperCase78**) repo._ **Thank you in advance...**
 
 ## Featured Datasets
 
@@ -46,4 +46,4 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 Plus, for the first time, dataset for **qualifying results of 2022 season** is available. Don't hesitate to check that out!
 
-Meanwhile, race results of 2018 and previous seasons might be loaded in time and placed in a separate folder.
+Meanwhile, race results of 2018 and previous seasons might be inserted in time and placed in a separate folder.
