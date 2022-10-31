@@ -365,17 +365,37 @@ United States,3,16,Charles Leclerc,Ferrari,12,56,+7.501,15,No,1:39.731
 United States,4,11,Sergio Perez,Red Bull Racing RBPT,9,56,+8.293,12,No,1:39.563
 United States,5,63,George Russell,Mercedes,4,56,+44.815,11,Yes,1:38.788
 United States,6,4,Lando Norris,McLaren Mercedes,6,56,+53.785,8,No,1:41.322
-United States,7,5,Sebastian Vettel,Aston Martin Aramco Mercedes,10,56,+65.354,6,No,1:41.538
-United States,8,20,Kevin Magnussen,Haas Ferrari,13,56,+65.834,4,No,1:42.546
-United States,9,22,Yuki Tsunoda,AlphaTauri RBPT,19,56,+70.919,2,No,1:42.206
-United States,10,31,Esteban Ocon,Alpine Renault,20,56,+72.875,1,No,1:41.243
-United States,11,24,Guanyu Zhou,Alfa Romeo Ferrari,18,56,+76.164,0,No,1:42.394
-United States,12,23,Alexander Albon,Williams Mercedes,8,56,+80.057,0,No,1:42.471
-United States,13,10,Pierre Gasly,AlphaTauri RBPT,11,56,+81.763,0,No,1:41.674
-United States,14,47,Mick Schumacher,Haas Ferrari,16,56,+84.490,0,No,1:42.320
-United States,15,14,Fernando Alonso,Alpine Renault,14,56,+85.078,0,No,1:41.804
+United States,7,14,Fernando Alonso,Alpine Renault,14,56,+55.078,0,No,1:41.804
+United States,8,5,Sebastian Vettel,Aston Martin Aramco Mercedes,10,56,+65.354,6,No,1:41.538
+United States,9,20,Kevin Magnussen,Haas Ferrari,13,56,+65.834,4,No,1:42.546
+United States,10,22,Yuki Tsunoda,AlphaTauri RBPT,19,56,+70.919,2,No,1:42.206
+United States,11,31,Esteban Ocon,Alpine Renault,20,56,+72.875,1,No,1:41.243
+United States,12,24,Guanyu Zhou,Alfa Romeo Ferrari,18,56,+76.164,0,No,1:42.394
+United States,13,23,Alexander Albon,Williams Mercedes,8,56,+80.057,0,No,1:42.471
+United States,14,10,Pierre Gasly,AlphaTauri RBPT,11,56,+81.763,0,No,1:41.674
+United States,15,47,Mick Schumacher,Haas Ferrari,16,56,+84.490,0,No,1:42.320
 United States,16,3,Daniel Ricciardo,McLaren Mercedes,15,56,+90.487,0,No,1:42.420
 United States,17,6,Nicholas Latifi,Williams Mercedes,17,56,+103.588,0,No,1:43.485
 United States,NC,18,Lance Stroll,Aston Martin Aramco Mercedes,5,21,DNF,0,No,1:43.080
 United States,NC,77,Valtteri Bottas,Alfa Romeo Ferrari,7,16,DNF,0,No,1:43.391
 United States,NC,55,Carlos Sainz,Ferrari,1,1,DNF,0,No,
+Mexico,1,1,Max Verstappen,Red Bull Racing RBPT,1,71,1:38:36.729,25,No,1:22.046
+Mexico,2,44,Lewis Hamilton,Mercedes,3,71,+15.186,18,No,1:22.062
+Mexico,3,11,Sergio Perez,Red Bull Racing RBPT,4,71,+18.097,15,1:21.775
+Mexico,4,63,George Russell,Mercedes,2,71,+49.431,13,Yes,1:20.153
+Mexico,5,55,Carlos Sainz,Ferrari,5,71,+58.123,10,No,1:22.199
+Mexico,6,16,Charles Leclerc,Ferrari,7,71,+68.774,8,No,1:22.603
+Mexico,7,3,Daniel Ricciardo,McLaren Mercedes,11,70,+1 lap,6,No,1:22.022
+Mexico,8,31,Esteban Ocon,Alpine Renault,10,70,+1 lap,4,No,1:23.279
+Mexico,9,4,Lando Norris,McLaren Mercedes,8,70,+1 lap,2,No,1:23.402
+Mexico,10,77,Valtteri Bottas,Alfa Romeo Ferrari,6,70,+1 lap,1,No,1:23.363
+Mexico,11,10,Pierre Gasly,AlphaTauri RBPT,,70,+1 lap,0,No,1:22.277
+Mexico,12,23,Alexander Albon,Williams Mercedes,17,70,+1 lap,0,No,1:22.914
+Mexico,13,24,Guanyu Zhou,Alfa Romeo Ferrari,12,70,+1 lap,0,No,1:22.260
+Mexico,14,5,Sebastian Vettel,Aston Martin Aramco Mercedes,16,70,+1 lap,0,No,1:23.086
+Mexico,15,18,Lance Stroll,Aston Martin Aramco Mercedes,20,70,+1 lap,0,No,1:22.463
+Mexico,16,47,Mick Schumacher,Haas Ferrari,15,70,+1 lap,0,No,1:23.641
+Mexico,17,20,Kevin Magnussen,Haas Ferrari,19,70,+1 lap,0,No,1:23.300
+Mexico,18,6,Nicholas Latifi,Williams Mercedes,18,69,+2 laps,0,No,1:23.709
+Mexico,19,14,Fernando Alonso,Alpine Renault,9,63,DNF,0,No,1:22.866
+Mexico,NC,22,Yuki Tsunoda,AlphaTauri RBPT,13,50,DNF,0,No,1:23.403
