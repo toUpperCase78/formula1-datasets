@@ -164,7 +164,7 @@ Canada,2,55,Carlos Sainz,Ferrari,3,70,+0.993,19,Yes,1:15.749
 Canada,3,44,Lewis Hamilton,Mercedes,4,70,+7.006,15,No,1:16.167
 Canada,4,63,George Russell,Mercedes,8,70,+12.313,12,No,1:16.418
 Canada,5,16,Charles Leclerc,Ferrari,19,70,+15.168,10,No,1:15.901
-Canada,6,31,Estaban Ocon,Alpine Renault,7,70,+23.890,8,No,1:17.110
+Canada,6,31,Esteban Ocon,Alpine Renault,7,70,+23.890,8,No,1:17.110
 Canada,7,77,Valtteri Bottas,Alfa Romeo Ferrari,11,70,+25.247,6,No,1:16.927
 Canada,8,24,Guanyu Zhou,Alfa Romeo Ferrari,10,70,+26.952,4,No,1:16.578
 Canada,9,14,Fernando Alonso,Alpine Renault,2,70,+29.945,2,No,1:17.010
@@ -419,3 +419,23 @@ Brazil,17,22,Yuki Tsunoda,AlphaTauri RBPT,20,71,+1 lap,0,No,1:15.508
 Brazil,NC,4,Lando Norris,McLaren Mercedes,6,50,DNF,0,No,1:15.855
 Brazil,NC,20,Kevin Magnussen,Haas Ferrari,8,0,DNF,0,No,
 Brazil,NC,3,Daniel Ricciardo,McLaren Mercedes,11,0,DNF,0,No,
+Abu Dhabi,1,1,Max Verstappen,Red Bull Racing RBPT,1,58,1:27:45.914,25,No,1:29.392
+Abu Dhabi,2,16,Charles Leclerc,Ferrari,3,58,+8.771,18,No,1:29.719
+Abu Dhabi,3,11,Sergio Perez,Red Bull Racing RBPT,2,58,+10.093,15,No,1:28.972
+Abu Dhabi,4,55,Carlos Sainz,Ferrari,4,58,+24.892,12,No,1:28.879
+Abu Dhabi,5,63,George Russell,Mercedes,6,58,+35.888,10,No,1:28.836
+Abu Dhabi,6,4,Lando Norris,McLaren Mercedes,7,58,+56.234,9,Yes,1:28.391
+Abu Dhabi,7,31,Esteban Ocon,Alpine Renault,8,58,+57.240,6,No,1:29.333
+Abu Dhabi,8,18,Lance Stroll,Aston Martin Aramco Mercedes,14,58,+76.931,4,No,1:29.620
+Abu Dhabi,9,3,Daniel Ricciardo,McLaren Mercedes,13,58,+83.268,2,No,1:30.785
+Abu Dhabi,10,5,Sebastian Vettel,Aston Martin Aramco Mercedes,9,58,+83.898,1,No,1:30.312
+Abu Dhabi,11,22,Yuki Tsunoda,AlphaTauri RBPT,11,58,+89.371,0,No,1:29.489
+Abu Dhabi,12,24,Guanyu Zhou,Alfa Romeo Ferrari,15,57,+1 lap,0,No,1:29.600
+Abu Dhabi,13,23,Alexander Albon,Williams Mercedes,19,57,+1 lap,0,No,1:29.939
+Abu Dhabi,14,10,Pierre Gasly,AlphaTauri RBPT,17,57,+1 lap,0,No,1:31.081
+Abu Dhabi,15,77,Valtteri Bottas,Alfa Romeo Ferrari,18,57,+1 lap,0,No,1:30.352
+Abu Dhabi,16,47,Mick Schumacher,Haas Ferrari,12,57,+1 lap,0,No,1:29.833
+Abu Dhabi,17,20,Kevin Magnussen,Haas Ferrari,16,57,+1 lap,0,No,1:31.158
+Abu Dhabi,18,44,Lewis Hamilton,Mercedes,5,55,DNF,0,No,1:29.788
+Abu Dhabi,19,6,Nicholas Latifi,Williams Mercedes,20,55,DNF,0,No,1:30.309
+Abu Dhabi,NC,14,Fernando Alonso,Alpine Renault,10,27,DNF,0,No,1:30.579
