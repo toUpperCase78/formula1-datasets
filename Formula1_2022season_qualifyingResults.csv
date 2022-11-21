@@ -115,12 +115,12 @@ Spain,13,22,Yuki Tsunoda,AlphaTauri RBPT,1:20.707,1:20.639,,15
 Spain,14,10,Pierre Gasly,AlphaTauri RBPT,1:20.719,1:20.861,,15
 Spain,15,24,Guanyu Zhou,Alfa Romeo Ferrari,1:20.476,1:21.094,,15
 Spain,16,5,Sebastian Vettel,Aston Martin Aramco Mercedes,1:20.954,,,6
-Spsin,17,14,Fernando Alonso,Alpine Renault,1:21.043,,,5
+Spain,17,14,Fernando Alonso,Alpine Renault,1:21.043,,,5
 Spain,18,18,Lance Stroll,Aston Martin Aramco Mercedes,1:21.418,,,6
 Spain,19,23,Alexander Albon,Williams Mercedes,1:21.645,,,6
 Spain,20,6,Nicholas Latifi,Williams Mercedes,1:21.915,,,9
 Monaco,1,16,Charles Leclerc,Ferrari,1:12.569,1:11.864,1:11.376,24
-Monaco,2,55,Carlos Sainz,Ferari,1:12.616,1:12.074,1:11.601,25
+Monaco,2,55,Carlos Sainz,Ferrari,1:12.616,1:12.074,1:11.601,25
 Monaco,3,11,Sergio Perez,Red Bull Racing RBPT,1:13.004,1:11.954,1:11.629,25
 Monaco,4,1,Max Verstappen,Red Bull Racing RBPT,1:12.993,1:12.117,1:11.666,25
 Monaco,5,4,Lando Norris,McLaren Mercedes,1:12.927,1:12.266,1:11.849,27
@@ -375,7 +375,7 @@ United States,13,10,Pierre Gasly,AlphaTauri RBPT,1:36.577,1:36.740,,11
 United States,14,24,Guanyu Zhou,Alfa Romeo Ferrari,1:36.656,1:36.970,,15
 United States,15,22,Yuki Tsunoda,AlphaTauri RBPT,1:36.808,1:37.147,,12
 United States,16,20,Kevin Magnussen,Haas Ferrari,1:36.949,,,8
-United States,17,3,Daniel Ricciardo,McLaren Meredes,1:37.046,,,6
+United States,17,3,Daniel Ricciardo,McLaren Mercedes,1:37.046,,,6
 United States,18,31,Esteban Ocon,Alpine Renault,1:37.068,,,6
 United States,19,47,Mick Schumacher,Haas Ferrari,1:37.111,,,8
 United States,20,6,Nicholas Latifi,Williams Mercedes,1:37.244,,,8
@@ -419,3 +419,23 @@ Brazil,17,24,Guanyu Zhou,Alfa Romeo Ferrari,1:15.197,,,12
 Brazil,18,77,Valtteri Bottas,Alfa Romeo Ferrari,1:15.486,,,13
 Brazil,19,22,Yuki Tsunoda,AlphaTauri RBPT,1:16.264,,,12
 Brazil,20,47,Mick Schumacher,Haas Ferrari,1:16.361,,,12
+Abu Dhabi,1,1,Max Verstappen,Red Bull Racing RBPT,1:24.754,1:24.622,1:23.824,17
+Abu Dhabi,2,11,Sergio Perez,Red Bull Racing RBPT,1:24.820,1:24.419,1:24.052,18
+Abu Dhabi,3,16,Charles Leclerc,Ferrari,1:25.211,1:24.517,1:24.092,17
+Abu Dhabi,4,55,Carlos Sainz,Ferrari,1:25.090,1:24.521,1:24.242,16
+Abu Dhabi,5,44,Lewis Hamilton,Mercedes,1:25.594,1:24.774,1:24.508,21
+Abu Dhabi,6,63,George Russell,Mercedes,1:25.545,1:24.940,1:24.511,20
+Abu Dhabi,7,4,Lando Norris,McLaren Mercedes,1:25.387,1:24.903,1:24.769,17
+Abu Dhabi,8,31,Esteban Ocon,Alpine Renault,1:25.735,1:25.007,1:24.830,17
+Abu Dhabi,9,5,Sebastian Vettel,Aston Martin Aramco Mercedes,1:25.523,1:24.974,1:24.961,18
+Abu Dhabi,10,3,Daniel Ricciardo,McLaren Mercedes,1:25.766,1:25.068,1:25.045,15
+Abu Dhabi,11,14,Fernando Alonso,Alpine Renault,1:25.782,1:25.096,,12
+Abu Dhabi,12,22,Yuki Tsunoda,AlphaTauri RBPT,1:25.630,1:25.219,,15
+Abu Dhabi,13,47,Mick Schumacher,Haas Ferrari,1:25.711,1:25.225,,15
+Abu Dhabi,14,18,Lance Stroll,Aston Martin Aramco Mercedes,1:25.741,1:25.359,,15
+Abu Dhabi,15,24,Guanyu Zhou,Alfa Romeo Ferrari,1:25.594,1:25.408,,12
+Abu Dhabi,16,20,Kevin Magnussen,Haas Ferrari,1:25.834,,,9
+Abu Dhabi,17,10,Pierre Gasly,AlphaTauri RBPT,1:25.859,,,9
+Abu Dhabi,18,77,Valtteri Bottas,Alfa Romeo Ferrari,1:25.892,,,6
+Abu Dhabi,19,23,Alexander Albon,Williams Mercedes,1:26.028,,,9
+Abu Dhabi,20,6,Nicholas Latifi,Williams Mercedes,1:26.054,,,9
