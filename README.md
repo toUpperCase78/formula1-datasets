@@ -21,12 +21,13 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 Here are the datasets you can find:
 
 - 2019 - 2021 Season Race Calendar
-- 2019 - 2021 Season Drivers
-- 2021 Season Teams
+- 2019 - 2022 Season Drivers
+- 2021 - 2022 Season Teams
 - 2021 Season Sprint Qualifying Results
 - 2022 Season Qualifying Results
 - 2022 Season Sprint Race Results
 - 2019 - 2022 Season Race Results
+- 2022 Season Driver of the Day Vote Results
 - 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
 - 2021 Season Driver Ratings from EA & Codemasters F1 2021 Official Video Game (Initial & January 2022)
 - 2022 Season Driver Ratings from EA & Codemasters F1 22 Video Game (Initial)
