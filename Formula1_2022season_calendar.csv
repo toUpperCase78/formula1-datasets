@@ -1,0 +1,23 @@
+Round,Race Date,GP Name,Country,City,Circuit Name,First GP,Number of Laps,Circuit Length(km),Race Distance(km),Lap Record,Record Owner,Record Year,Turns,DRS Zones
+1,20/03/2022,Gulf Air Bahrain GP,Bahrain,Sakhir,Bahrain International Circuit,2004,57,5.412,308.238,1:31.447,Pedro de la Rosa,2005,15,3
+2,27/03/2022,STC Saudi Arabian GP,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,2021,50,6.174,308.45,1:30.774,Lewis Hamilton,2021,27,3
+3,10/04/2022,Heineken Australian GP,Australia,Melbourne,Albert Park Circuit,1996,58,5.278,306.124,1:20.260,Charles Leclerc,2022,14,2
+4,24/04/2022,Rolex Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Italy,Imola,Autodromo Enzo e Dino Ferrari,1980,63,4.909,309.049,1:15.484,Lewis Hamilton,2020,18,1
+5,08/05/2022,Crypto.com Miami GP,United States,Miami,Miami International Autodrome,2022,57,5.412,308.326,1:31.361,Max Verstappen,2022,19,3
+6,22/05/2022,Pirelli Gran Premio de España,Spain,Catalunya,Circuit de Barcelona-Catalunya,1991,66,4.675,308.424,1:18.149,Max Verstappen,2021,16,2
+7,29/05/2022,Grand Prix de Monaco,Monaco,Monte Carlo,Circuit de Monaco,1950,78,3.337,260.286,1:12.909,Lewis Hamilton,2021,19,1
+8,12/06/2022,Azerbaijan GP,Azerbaijan,Baku,Baku City Circuit,2016,51,6.003,306.049,1:43.009,Charles Leclerc,2019,20,2
+9,19/06/2022,AWS Grand Prix du Canada,Canada,Montréal,Circuit Gilles-Villeneuve,1978,70,4.361,305.27,1:13.078,Valtteri Bottas,2019,14,3
+10,03/07/2022,Lenovo British GP,Great Britain,Silverstone,Silverstone Circuit,1950,52,5.891,306.198,1:27.097,Max Verstappen,2020,18,2
+11,10/07/2022,Rolex Grosser Preis von Österreich,Austria,Spielberg,Red Bull Ring,1970,71,4.318,306.452,1:05.619,Carlos Sainz,2020,10,3
+12,24/07/2022,Lenovo Grand Prix de France,France,Le Castellet,Circuit Paul Ricard,1971,53,5.842,309.69,1:32.740,Sebastian Vettel,2019,15,2
+13,31/07/2022,Aramco Magyar Nagydij,Hungary,Budapest,Hungaroring,1986,70,4.381,306.63,1:16.627,Lewis Hamilton,2020,14,1
+14,28/08/2022,Rolex Belgian GP,Belgium,Spa-Francorchamps,Circuit de Spa-Francorchamps,1950,44,7.004,308.052,1:46.286,Valtter Bottas,2018,19,2
+15,04/09/2022,Heineken Dutch GP,Netherlands,Zandvoort,Circuit Zandvoort,1952,72,4.259,306.587,1:11.097,Lewis Hamilton,2021,14,2
+16,11/09/2022,Pirelli Gran Premio D'Italia,Italy,Monza,Autodromo Nazionale Monza,1950,53,5.793,306.72,1:21.046,Rubens Barrichello,2004,11,2
+17,02/10/2022,Singapore Airlines Singapore GP,Singapore,Singapore,Marina Bay Street Circuit,2008,61,5.063,308.706,1:41.905,Kevin Magnussen,2018,23,3
+18,09/10/2022,Honda Japanese GP,Japan,Suzuka,Suzuka International Racing Course,1987,53,5.807,307.471,1:30.983,Lewis Hamilton,2019,18,1
+19,23/10/2022,Aramco United States GP,United States,Austin,Circuit of the Americas,2012,56,5.513,308.405,1:36.169,Charles Leclerc,2019,20,2
+20,30/10/2022,Gran Premio de la Ciudad de México,Mexico,Mexico City,Autodromo Hermanos Rodriguez,1963,71,4.304,305.354,1:17.774,Valtteri Bottas,2021,17,3
+21,13/11/2022,Heineken Gran Prêmio de São Paulo,Brazil,São Paulo,Autodromo Jose Carlos Pace,1973,71,4.309,305.879,1:10.540,Valtteri Bottas,2018,15,2
+22,20,11/2022,Etihad Airways Abu Dhabi GP,Abu Dhabi,Yas Island,Yas Marina Circuit,2009,58,5.281,306.183,1:26.103,Max Verstappen,2021,16,2
