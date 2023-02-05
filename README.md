@@ -43,6 +43,6 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 ## Current Plans
 
-**2022 Season has come to an end!** Thus, the datasets for race results, qualifying results and sprint race results are complete. That means, they are now ready for data analyses! Together with this availability, my plan is to release the 2022 Season analyses before the end of this year.
+**2022 Season has come to an end!** Thus, the datasets for race results, qualifying results and sprint race results are complete. That means, they are now ready for data analyses! Together with this availability, my plan is to release the 2022 Season analyses before the start of the new season.
 
-Meanwhile, race results of 2018 and previous seasons might be inserted in time and placed in a separate folder.
+Meanwhile, there exist all race results of 2014-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be inserted some time.
