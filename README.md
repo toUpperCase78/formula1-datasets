@@ -4,9 +4,9 @@
 
 ![F1 logo](https://i.ibb.co/0Cv5J79/f1-logo-present.png)
 
-Hello there! You've come to my repository about **Formula 1 World Championship**, which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
+Hello there! You've reached my repository about **Formula 1 World Championship**, which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
 
-As a data science enthusiast and have been following F1 for almost two decades, my objective here is to create datasets to enable analyses on drivers and teams with regards to their race results and other important sessions throughout the seasons.
+As a data science enthusiast and have been following F1 for over two decades, my objective here is to form datasets in order to enable analyses on drivers and teams with regards to their race results and other important sessions throughout the seasons.
 
 ## Source
 
@@ -14,24 +14,24 @@ All these data are obtained from Formula 1 Official [Web Site](https://www.formu
 
 ## IMPORTANT!
 
-_If you'd like to use these datasets and wish to perform your own analyses in your works, please don't forget to put a reference for the original owner's (**toUpperCase78**) repo._ **Thank you in advance...**
+_If you'd like to use these datasets and wish to perform your own analyses in your works, please don't forget to put a reference for the original owner's (**toUpperCase78**) repo and give kudos._ **Thank you in advance...**
 
 ## Featured Datasets
 
 Here are the datasets you can find:
 
-- 2019 - 2021 Season Race Calendar
+- 2019 - 2022 Season Race Results
+- 2019 - 2022 Season Race Calendar
 - 2019 - 2022 Season Drivers
 - 2021 - 2022 Season Teams
 - 2021 Season Sprint Qualifying Results
 - 2022 Season Qualifying Results
 - 2022 Season Sprint Race Results
-- 2019 - 2022 Season Race Results
 - 2022 Season Driver of the Day Vote Results
 - 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
 - 2021 Season Driver Ratings from EA & Codemasters F1 2021 Official Video Game (Initial & January 2022)
 - 2022 Season Driver Ratings from EA & Codemasters F1 22 Video Game (Initial)
-- Race Results from Previous Seasons (2014 - 2018)
+- Race Results from Previous Seasons (2013 - 2018)
 
 ## Season Analyses
 
@@ -45,4 +45,4 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 **2022 Season has come to an end!** Thus, the datasets for race results, qualifying results and sprint race results are complete. That means, they are now ready for data analyses! Together with this availability, my plan is to release the 2022 Season analyses before the start of the new season.
 
-Meanwhile, there exist all race results of 2014-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be inserted some time.
+Meanwhile, there exist all race results of 2013-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be uploaded some time.
