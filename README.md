@@ -18,14 +18,14 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 
 ## Featured Datasets
 
-Here are the datasets you can find:
+**Here are the datasets you can find:**
 
-- 2019 - 2022 Season Race Results
+- 2019 - 2023 Season Race Results
 - 2019 - 2022 Season Race Calendar
 - 2019 - 2022 Season Drivers
 - 2021 - 2022 Season Teams
 - 2021 Season Sprint Qualifying Results
-- 2022 Season Qualifying Results
+- 2022 - 2023 Season Qualifying Results
 - 2022 Season Sprint Race Results
 - 2022 Season Driver of the Day Vote Results
 - 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
@@ -43,6 +43,8 @@ Also, you may want to check the analyses for 2019 Season with _F1_2019season_ana
 
 ## Current Plans
 
-**2022 Season has come to an end!** Thus, the datasets for race results, qualifying results and sprint race results are complete. That means, they are now ready for data analyses! Together with this availability, my plan is to release the 2022 Season analyses before the start of the new season.
+**2022 Season has come to an end!** Thus, the datasets for race results, qualifying results and sprint race results are complete. That means, they are now ready for data analyses! Together with this availability, my plan is to release the 2022 Season analyses as quickly as possible!
+
+Of course, **2023 Season has officially started!** New datasets, so race and qualifying results will arrive on the way as the season progresses.
 
 Meanwhile, there exist all race results of 2013-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be uploaded some time.
