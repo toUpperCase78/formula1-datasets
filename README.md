@@ -2,7 +2,8 @@
 
 **Datasets & Analyses for Formula 1 World Championship**
 
-![F1 logo](https://i.ibb.co/0Cv5J79/f1-logo-present.png)
+<!-- ![F1 logo](https://i.ibb.co/0Cv5J79/f1-logo-present.png) -->
+![F1 Logo](F1_2023_logo.png)
 
 Hello there! You've reached my repository about **Formula 1 World Championship**, which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
 
