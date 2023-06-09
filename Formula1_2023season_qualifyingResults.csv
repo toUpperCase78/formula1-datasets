@@ -103,7 +103,7 @@ Monaco,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1:12.386,1:11.908,1:11.365,
 Monaco,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,1:12.886,1:12.107,1:11.449,25
 Monaco,3,16,Charles Leclerc,Ferrari,1:12.912,1:12.103,1:11.471,26
 Monaco,4,31,Esteban Ocon,Alpine Renault,1:12.967,1:12.248,1:11.553,26
-Monaco,5,55,Carlos Sainz,Ferrrari,1:12.717,1:12.210,1:11.630,28
+Monaco,5,55,Carlos Sainz,Ferrari,1:12.717,1:12.210,1:11.630,28
 Monaco,6,44,Lewis Hamilton,Mercedes,1:12.872,1:12.156,1:11.725,30
 Monaco,7,10,Pierre Gasly,Alpine Renault,1:13.033,1:12.169,1:11.933,25
 Monaco,8,63,George Russell,Mercedes,1:12.769,1:12.151,1:11.964,29
@@ -119,3 +119,23 @@ Monaco,17,20,Kevin Magnussen,Haas Ferrari,1:13.270,,,9
 Monaco,18,27,Nico Hulkenberg,Haas Ferrari,1:13.279,,,8
 Monaco,19,24,Guanyu Zhou,Alfa Romeo Ferrari,1:13.523,,,13
 Monaco,20,11,Sergio Perez,Red Bull Racing Honda RBPT,1:13.850,,,4
+Spain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1:13.615,1:12.760,1:12.272,20
+Spain,2,55,Carlos Sainz,Ferrari,1:13.411,1:12.790,1:12.734,22
+Spain,3,4,Lando Norris,McLaren Mercedes,1:13.295,1:12.776,1:12.792,22
+Spain,4,10,Pierre Gasly,Alpine Renault,1:13.471,1:13.186,1:12.816,21
+Spain,5,44,Lewis Hamilton,Mercedes,1:12.937,1:12.999,1:12.818,23
+Spain,6,18,Lance Stroll,Aston Martin Aramco Mercedes,1:13.766,1:13.082,1:12.994,23
+Spain,7,31,Esteban Ocon,Alpine Renault,1:13.433,1:13.001,1:13.083,21
+Spain,8,27,Nico Hulkenberg,Haas Ferrari,1:13.420,1:13.283,1:13.229,18
+Spain,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,1:13.747,1:13.098,1:13.507,18
+Spain,10,81,Oscar Piastri,McLaren Mercedes,1:13.691,1:13.059,1:13.682,20
+Spain,11,11,Sergio Perez,Red Bull Racing Honda RBPT,1:13.874,1:13.334,,17
+Spain,12,63,George Russell,Mercedes,1:13.326,1:13.447,,18
+Spain,13,24,Guanyu Zhou,Alfa Romeo Ferrari,1:13.677,1:13.521,,16
+Spain,14,21,Nyck De Vries,AlphaTauri Honda RBPT,1:13.581,1:14.083,,16
+Spain,15,22,Yuki Tsunoda,AlphaTauri Honda RBPT,1:13.862,1:14.477,,19
+Spain,16,77,Valtteri Bottas,Alfa Romeo Ferrari,1:13.977,,,10
+Spain,17,20,Kevin Magnussen,Haas Ferrari,1:14.042,,,9
+Spain,18,23,Alexander Albon,Williams Mercedes,1:14.063,,,8
+Spain,19,16,Charles Leclerc,Ferrari,1:14.079,,,10
+Spain,20,2,Logan Sargeant,Williams Mercedes,1:14.699,,,6
