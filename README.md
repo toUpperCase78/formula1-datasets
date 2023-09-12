@@ -11,7 +11,7 @@ As a data science enthusiast and have been following F1 for over two decades, my
 
 ## Source
 
-All these data are obtained from Formula 1 Official [Web Site](https://www.formula1.com/), plus EA & Codemasters F1 Games for driver ratings [here](https://www.ea.com/games/f1/f1-22/driver-ratings/ratings-database?isLocalized=true).
+All these data are obtained from Formula 1 Official [Web Site](https://www.formula1.com/), plus EA & Codemasters F1 Games for driver ratings [here](https://www.ea.com/games/f1/driver-ratings?isLocalized=true).
 
 ## IMPORTANT!
 
@@ -32,21 +32,25 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 - 2022 Season Driver of the Day Vote Results
 - 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
 - 2021 Season Driver Ratings from EA & Codemasters F1 2021 Official Video Game (Initial & January 2022)
-- 2022 Season Driver Ratings from EA & Codemasters F1 22 & F1 23 Video Game (Initial)
+- 2022 Season Driver Ratings from EA & Codemasters F1 22 Video Game (Initial)
+- 2023 Season Driver Ratings from EA & Codemasters F1 23 Video Game (Initial)
 - Race Results from Previous Seasons (2013 - 2018)
 
 ## Season Analyses
 
-**2021 Season analyses is here! It is fully worthwhile to read everything to learn what happened in the previous season!** Click on the file _F1_2021Season_Analysis.ipynb_ and I'm sure you'll be satisfied!
+**At last! 2022 Season analyses is here! I highly recommend you to read everything and examine the visuals to learn what happened in the previous season!** The links belonging to this one and the previous season analyses are found in the table below:
 
-Meanwhile, you can read everything about the 2020 Season analyses by clicking on the related file: _F1_2020season_analysis.ipynb_.
+| F1 Season Analyses |
+|--------------------|
+| [F1 2022 Season Analyses](F1_2022Season_Analysis.ipynb)|
+| [F1 2021 Season Analyses](F1_2021Season_Analysis.ipynb)|
+| [F1 2020 Season Analyses](F1_2020season_analysis.ipynb)|
+| [F1 2019 Season Analyses](F1_2019season_analysis.ipynb)|
 
-Also, you may want to check the analyses for 2019 Season with _F1_2019season_analysis.ipynb_.
+## Future Plans
 
-## Current Plans
+**2023 Season has already started and continues for the races in the second half!** Therefore, new datasets that are related to race and qualifying results will arrive on the way as the races are completed, including _Sprint_ and _Sprint Shootout_ results this season.
 
-**2022 Season has come to an end!** Thus, the datasets for race results, qualifying results and sprint race results are complete. That means, they are now ready for data analyses! Together with this availability, my plan is to release the 2022 Season analyses as quickly as possible!
-
-Of course, **2023 Season has started and reached the first half of the season!** Therefore, new datasets that are related to race and qualifying results will arrive on the way as the season progresses, including _sprint_ and _sprint shootout_ results.
+During the time, the older season analyses might be revised for updated explanations and improved visuals.
 
 Meanwhile, there exist all race results of 2013-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be uploaded some time.
