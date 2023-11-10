@@ -310,7 +310,7 @@ Japan,8,14,Fernando Alonso,Aston Martin Aramco Mercedes,10,53,+74.725,4,No,1:37.
 Japan,9,31,Esteban Ocon,Alpine Renault,14,53,+79.678,2,No,1:37.398
 Japan,10,10,Pierre Gasly,Alpine Renault,12,53,+83.155,1,No,1:36.371
 Japan,11,40,Liam Lawson,AlphaTauri Honda RBPT,11,52,+1 lap,0,No,1:38.267
-Japan,12,22,Yuki Tsunoda,AlphaTauri Honda RPBT,9,52,+1 lap,0,No,1:37.768
+Japan,12,22,Yuki Tsunoda,AlphaTauri Honda RBPT,9,52,+1 lap,0,No,1:37.768
 Japan,13,24,Guanyu Zhou,Alfa Romeo Ferrari,19,52,+1 lap,0,No,1:37.791
 Japan,14,27,Nico Hulkenberg,Haas Ferrari,18,52,+1 lap,0,No,1:37.250
 Japan,15,20,Kevin Magnussen,Haas Ferrari,15,52,+1 lap,0,No,1:37.842
@@ -379,3 +379,23 @@ Mexico,17,18,Lance Stroll,Aston Martin Aramco Mercedes,20,66,DNF,0,No,1:23.257
 Mexico,NC,14,Fernando Alonso,Aston Martin Aramco Mercedes,13,47,DNF,0,No,1:23.531
 Mexico,NC,20,Kevin Magnussen,Haas Ferrari,16,31,DNF,0,No,1:23.146
 Mexico,NC,11,Sergio Perez,Red Bull Racing Honda RBPT,5,1,DNF,0,No,
+Brazil,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,71,1:56:48.894,25,No,1:13.422
+Brazil,2,4,Lando Norris,McLaren Mercedes,6,71,+8.227,19,Yes,1:12.486
+Brazil,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,4,71,+34.155,15,No,1:14.442
+Brazil,4,11,Sergio Perez,Red Bull Racing Honda RBPT,9,71,+34.208,12,No,1:14.124
+Brazil,5,18,Lance Stroll,Aston Martin Aramco Mercedes,3,71,+40.845,10,No,1:14.007
+Brazil,6,55,Carlos Sainz,Ferrari,7,71,+50.188,8,No,1:14.406
+Brazil,7,10,Pierre Gasly,Alpine Renault,15,71,+56.093,6,No,1:14.521
+Brazil,8,44,Lewis Hamilton,Mercedes,5,71,+62.859,4,No,1:14.739
+Brazil,9,22,Yuki Tsunoda,AlphaTauri Honda RBPT,16,71,+69.880,2,No,1:14.231
+Brazil,10,31,Esteban Ocon,Alpine Renault,14,70,+1 lap,1,No,1:14.206
+Brazil,11,2,Logan Sargeant,Williams Mercedes,19,70,+1 lap,0,No,1:15.738
+Brazil,12,27,Nico Hulkenberg,Haas Ferrari,11,70,+1 lap,0,No,1:15.036
+Brazil,13,3,Daniel Ricciardo,AlphaTauri Honda RBPT,17,70,+1 lap,0,No,1:13.866
+Brazil,14,81,Oscar Piastri,McLaren Mercedes,10,69,+2 laps,0,No,1:14.310
+Brazil,NC,63,George Russell,Mercedes,8,57,DNF,0,No,1:14.934
+Brazil,NC,77,Valtteri Bottas,Alfa Romeo Ferrari,18,39,DNF,0,No,1:15.731
+Brazil,NC,24,Guanyu Zhou,Alfa Romeo Ferrari,20,22,DNF,0,No,1:16.232
+Brazil,NC,20,Kevin Magnussen,Haas Ferrari,12,0,DNF,0,No,
+Brazil,NC,23,Alexander Albon,Williams Mercedes,13,0,DNF,0,No,
+Brazil,NC,16,Charles Leclerc,Ferrari,2,0,DNS,0,No,
