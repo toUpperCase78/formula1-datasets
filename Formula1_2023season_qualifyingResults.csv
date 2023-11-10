@@ -289,7 +289,7 @@ Singapore,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,1:32.584,1:31.835,1:
 Singapore,8,31,Esteban Ocon,Alpine Renault,1:32.369,1:32.089,1:31.673,18
 Singapore,9,27,Nico Hulkenberg,Haas Ferrari,1:32.100,1:31.994,1:31.808,21
 Singapore,10,40,Liam Lawson,AlphaTauri Honda RBPT,1:32.215,1:32.166,1:32.268,21
-Singapore,11,1,Max Verstappen,Red Bull Racing Hond RBPT,1:32.398,1:32.173,,14
+Singapore,11,1,Max Verstappen,Red Bull Racing Honda RBPT,1:32.398,1:32.173,,14
 Singapore,12,10,Pierre Gasly,Alpine Renault,1:32.452,1:32.274,,12
 Singapore,13,11,Sergio Perez,Red Bull Racing Honda RBPT,1:32.099,1:32.310,,13
 Singapore,14,23,Alexander Albon,Williams Mercedes,1:32.668,1:33.719,,12
@@ -379,3 +379,23 @@ Mexico,17,20,Kevin Magnussen,Haas Ferrari,1:19.163,,,9
 Mexico,18,18,Lance Stroll,Aston Martin Aramco Mercedes,1:19.227,,,9
 Mexico,19,4,Lando Norris,McLaren Mercedes,1:21.554,,,6
 Mexico,NC,2,Logan Sargeant,Williams Mercedes,DNF,,,6
+Brazil,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1:10.436,1:10.162,1:10.727,18
+Brazil,2,16,Charles Leclerc,Ferrari,1:10.472,1:10.303,1:11.021,18
+Brazil,3,18,Lance Stroll,Aston Martin Aramco Mercedes,1:10.551,1:10.375,1:11.344,16
+Brazil,4,14,Fernando Alonso,Aston Martin Aramco Mercedes,1:10.557,1:10.237,1:11.387,18
+Brazil,5,44,Lewis Hamilton,Mercedes,1:10.604,1:10.266,1:11.469,21
+Brazil,6,63,George Russell,Mercedes,1:10.340,1:10.316,1:11.590,21
+Brazil,7,4,Lando Norris,McLaren Mercedes,1:10.623,1:10.021,1:11.987,13
+Brazil,8,55,Carlos Sainz,Ferrari,1:10.624,1:10.254,1:11.989,20
+Brazil,9,11,Sergio Perez,Red Bull Racing Honda RBPT,1:10.668,1:10.219,1:12.321,17
+Brazil,10,81,Oscar Piastri,McLaren Mercedes,1:10.519,1:10.330,DNF,15
+Brazil,11,27,Nico Hulkenberg,Haas Ferrari,1:10.475,1:10.547,,15
+Brazil,12,31,Esteban Ocon,Alpine Renault,1:10.763,1:10.562,,15
+Brazil,13,10,Pierre Gasly,Alpine Renault,1:10.793,1:10.567,,14
+Brazil,14,20,Kevin Magnussen,Haas Ferrari,1:10.602,1:10.723,,15
+Brazil,15,23,Alexander Albon,Williams Mercedes,1:10.621,1:10.840,,15
+Brazil,16,22,Yuki Tsunoda,AlphaTauri Honda RBPT,1:10.837,,,9
+Brazil,17,3,Daniel Ricciardo,AlphaTauri Honda RBPT,1:10.843,,,6
+Brazil,18,77,Valtteri Bottas,Alfa Romeo Ferrari,1:10.955,,,9
+Brazil,19,2,Logan Sargeant,Williams Mercedes,1:11.035,,,9
+Brazil,20,24,Guanyu Zhou,Alfa Romeo Ferrari,1:11.275,,,9
