@@ -30,10 +30,8 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 - 2023 Season Sprint Shootout Results
 - 2022 - 2023 Season Sprint Race Results
 - 2022 Season Driver of the Day Vote Results
-- 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game (Initial, October 2020 & January 2021)
-- 2021 Season Driver Ratings from EA & Codemasters F1 2021 Official Video Game (Initial & January 2022)
-- 2022 Season Driver Ratings from EA & Codemasters F1 22 Video Game (Initial)
-- 2023 Season Driver Ratings from EA & Codemasters F1 23 Video Game (Initial)
+- 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game
+- 2021 Season Driver Ratings from EA & Codemasters F1 2021 / F1 22 / F1 23 Official Video Game
 - Race Results from Previous Seasons (2013 - 2018)
 
 ## Season Analyses
@@ -47,10 +45,10 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 | [F1 2020 Season Analyses](F1_2020season_analysis.ipynb)|
 | [F1 2019 Season Analyses](F1_2019season_analysis.ipynb)|
 
-## Future Plans
+## Current & Future Plans
 
-**2023 Season has already started and continues for the races in the second half!** Therefore, new datasets that are related to race and qualifying results will arrive on the way as the races are completed, including _Sprint_ and _Sprint Shootout_ results this season.
+**2023 Season has been completed!** That means, all the datasets corresponding to the season are now in full shape, thus it is the most convenient time to begin the seasonal analyses. Certainly, my aim is to publish them until the start of the next season. Stay tuned for any updates!
 
-During the time, the older season analyses might be revised for updated explanations and improved visuals.
+Meanwhile, the older season analyses might be revised for updated explanations and improved visuals.
 
-Meanwhile, there exist all race results of 2013-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be uploaded some time.
+Besides, there exist all race results of 2013-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be uploaded some time.
