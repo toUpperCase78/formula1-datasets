@@ -15,28 +15,28 @@ All these data are obtained from Formula 1 Official [Web Site](https://www.formu
 
 ## IMPORTANT!
 
-_If you'd like to use these datasets and wish to perform your own analyses in your works, please don't forget to put a reference for the original owner's (**toUpperCase78**) repo and give kudos._ **Thank you in advance...**
+_If you'd like to use these datasets and wish to perform your own analyses in your works, please don't forget to give a reference for the original owner's (**toUpperCase78**) repo and send kudos._ **Thank you in advance...**
 
 ## Featured Datasets
 
 **Here are the datasets you can find:**
 
 - 2019 - 2023 Season Race Results
-- 2019 - 2022 Season Race Calendar
-- 2019 - 2022 Season Drivers
-- 2021 - 2022 Season Teams
+- 2019 - 2023 Season Race Calendar
+- 2019 - 2023 Season Drivers
+- 2021 - 2023 Season Teams
 - 2021 Season Sprint Qualifying Results
 - 2022 - 2023 Season Qualifying Results
 - 2023 Season Sprint Shootout Results
 - 2022 - 2023 Season Sprint Race Results
 - 2022 Season Driver of the Day Vote Results
-- 2020 Season Driver Ratings from Codemasters F1 2020 Official Video Game
-- 2021 Season Driver Ratings from EA & Codemasters F1 2021 / F1 22 / F1 23 Official Video Game
+- Driver Ratings from Codemasters F1 2020 Official Video Game
+- Driver Ratings from EA & Codemasters F1 2021 / F1 22 / F1 23 Official Video Game
 - Race Results from Previous Seasons (2013 - 2018)
 
 ## Season Analyses
 
-**At last! 2022 Season analyses is here! I highly recommend you to read everything and examine the visuals to learn what happened in the previous season!** The links belonging to this one and the previous season analyses are found in the table below:
+**2022 Season analyses is here! I highly recommend you to read everything and examine the visuals to learn what happened in the previous season!** The links belonging to this one and the previous season analyses are found in the table below:
 
 | F1 Season Analyses |
 |--------------------|
