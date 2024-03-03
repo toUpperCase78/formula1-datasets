@@ -5,7 +5,7 @@
 <!-- ![F1 logo](https://i.ibb.co/0Cv5J79/f1-logo-present.png) -->
 ![F1 Logo](F1_2023_logo.png)
 
-Hello there! You are viewing my repository that is dedicated to **Formula 1 World Championship**, which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
+Hello there! You are viewing my repository, dedicated to **Formula 1 World Championship**, which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
 
 As a data science enthusiast and have been following F1 for over two decades, my aim here is to make datasets and to enable analyses on drivers and teams with regards to their race results and other important sessions throughout the seasons.
 
@@ -21,22 +21,22 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 
 **Here are the datasets you can find:**
 
-- 2019 - 2023 Season Race Results
+- 2019 - 2024 Season Race Results
 - 2019 - 2023 Season Race Calendar
 - 2019 - 2023 Season Drivers
 - 2021 - 2023 Season Teams
+- 2022 - 2024 Season Qualifying Results
 - 2021 Season Sprint Qualifying Results
-- 2022 - 2023 Season Qualifying Results
-- 2023 Season Sprint Shootout Results
 - 2022 - 2023 Season Sprint Race Results
-- 2022 Season Driver of the Day Vote Results
+- 2023 Season Sprint Shootout Results
+- 2022 - 2023 Season Driver of the Day Vote Results
 - Driver Ratings from Codemasters F1 2020 Official Video Game
 - Driver Ratings from EA & Codemasters F1 2021 / F1 22 / F1 23 Official Video Game
 - Race Results from Previous Seasons (2013 - 2018)
 
 ## Season Analyses
 
-**2022 Season analyses is here! I highly recommend you to read everything and examine the visuals to learn what happened in the previous season!** The links belonging to this one and the previous season analyses are found in the table below:
+**I lastly pubslihed 2022 Season analyses here! I highly recommend you to read everything and examine the visuals to learn what happened in the previous season!** The links belonging to this one and the previous season analyses are found in the table below:
 
 | F1 Season Analyses |
 |--------------------|
@@ -47,8 +47,10 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 
 ## Current & Future Plans
 
-**2023 Season has been completed!** That means, all the datasets corresponding to the season are now in full shape, thus it is the most convenient time to begin the seasonal analyses. Certainly, my aim is to publish them until the start of the next season. Stay tuned for any updates!
+**Lights out and away we go for 2024 Season!** The start of the new season means, of course, new related datasets will be available and updated after each completed Grand Prix. During that time, some different contents may arrive here. Stay tuned!
 
-Meanwhile, the older season analyses might be revised for updated explanations and improved visuals.
+Concurrently, my another objective is to publish **2023 Season analyses** at any time, but not being too late...
+
+Meanwhile, although not carried out yet, the older season analyses might be revised for updated explanations and improved visuals.
 
 Besides, there exist all race results of 2013-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be uploaded some time.
