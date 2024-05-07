@@ -26,7 +26,7 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 - 2019 - 2023 Season Drivers
 - 2021 - 2023 Season Teams
 - 2022 - 2024 Season Qualifying Results
-- 2021 Season Sprint Qualifying Results
+- 2021 & 2024 Season Sprint Qualifying Results
 - 2022 - 2023 Season Sprint Race Results
 - 2023 Season Sprint Shootout Results
 - 2022 - 2023 Season Driver of the Day Vote Results
