@@ -47,10 +47,10 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 
 ## Current & Future Plans
 
-**Lights out and away we go for 2024 Season!** The start of the new season means, of course, new related datasets will be available and updated after each completed Grand Prix. During that time, some different contents may arrive here. Stay tuned!
+**2024 Season has ended!** This means all datasets that correspond to the latest season are now fully available, as well as the right time to prepare the analysis!
 
-Concurrently, my another objective is to publish **2023 Season analyses** at any time, but not being too late...
+Concurrently, my another objective is to publish **2023 Season analyses** at any time, thus these two will be released in a short time hopefully...
 
-Meanwhile, although not carried out yet, the older season analyses might be revised for updated explanations and improved visuals.
+Meanwhile, although not carried out yet, the older season analyses might be revised for improved visuals.
 
 Besides, there exist all race results of 2013-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be uploaded some time.
