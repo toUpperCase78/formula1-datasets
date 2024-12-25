@@ -1,0 +1,25 @@
+Round,Race Date,GP Name,Country,City,Circuit Name,First GP,Number of Laps,Circuit Length(km),Race Distance(km),Lap Record,Record Owner,Record Year,Turns,DRS Zones
+1,02/03/2024,Gulf Air Bahrain GP,Bahrain,Sakhir,Bahrain International Circuit,2004,57,5.412,308.238,1:31.447,Pedro de la Rosa,2005,15,3
+2,09/03/2024,STC Saudi Arabian GP,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,2021,50,6.174,308.45,1:30.734,Lewis Hamilton,2021,27,3
+3,24/03/2024,Rolex Australian GP,Australia,Melbourne,Albert Park Grand Prix Circuit,1996,58,5.278,306.124,1:19.813,Charles Leclerc,2024,14,4
+4,07/04/2024,MSC Cruises Japanese GP,Japan,Suzuka,Suzuka Circuit,1987,53,5.807,307.471,1:30.983,Lewis Hamilton,2019,18,1
+5,21/04/2024,Lenovo Chinese GP,China,Shanghai,Shanghai International Circuit,2004,56,5.451,305.066,1:32.238,Michael Schumacher,2004,16,2
+6,05/05/2024,Crypto.com Miami GP,United States,Miami,Miami International Autodrome,2022,57,5.412,308.326,1:29.708,Max Verstappen,2023,19,3
+7,19/05/2024,MSC Cruises Gran Premio Del Made in Italy e Dell'Emilia-Romagna,Italy,Imola,Autodromo Internazionale Enzo e Dino Ferrari,1980,63,4.909,309.049,1:15.484,Lewis Hamilton,2020,19,1
+8,26/05/2024,Grand Prix de Monaco,Monaco,Monaco,Circuit de Monaco,1950,78,3.337,260.286,1:12.909,Lewis Hamilton,2021,19,1
+9,09/06/2024,AWS Grand Prix du Canada,Canada,Montréal,Circuit Gilles-Villeneuve,1978,70,4.361,305.27,1:13.078,Valtteri Bottas,2019,14,3
+10,23/06/2024,Aramco Gran Premio de España,Spain,Barcelona,Circuit de Barcelona-Catalunya,1991,66,4.657,307.236,1:16.330,Max Verstappen,2023,14,2
+11,30/06/2024,Qatar Airways Austrian GP,Austria,Spielberg,Red Bull Ring,1970,71,4.318,306.452,1:05.619,Carlos Sainz,2020,10,3
+12,07/07/2024,Qatar Airways British GP,Great Britain,Silverstone,Silverstone Circuit,1950,52,5.891,306.198,1:27.097,Max Verstappen,2020,18,2
+13,21/07/2024,Hungarian GP,Hungary,Budapest,Hungaroring,1986,70,4.381,306.63,1:16.627,Lewis Hamilton,2020,14,2
+14,28/07/2024,Rolex Belgian GP,Belgium,Spa-Francorchamps,Circuit de Spa-Francorchamps,1950,44,7.004,308.052,1:44.701,Sergio Perez,2024,19,2
+15,25/08/2024,Heineken Dutch GP,Netherlands,Zandvoort,Circuit Zandvoort,1952,72,4.259,306.587,1:11.097,Lewis Hamilton,2021,14,2
+16,01/09/2024,Pirelli Gran Premio D'Italia,Italy,Monza,Autodromo Nazionale Monza,1950,53,5.793,306.72,1:21.046,Rubens Barrichello,2004,11,2
+17,15/09/2024,Qatar Airways Azerbaijan GP,Azerbaijan,Baku,Baku City Circuit,2016,51,6.003,306.049,1:43.009,Charles Leclerc,2019,20,2
+18,22/09/2024,Singapore Airlines Singapore GP,Singapore,Singapore,Marina Bay Street Circuit,2008,62,4.940,306.143,1:34.486,Daniel Ricciardo,2024,19,4
+19,20/10/2024,Pirelli United States GP,United States,Austin,Circuit of the Americas,2012,56,5.513,308.405,1:36.169,Charles Leclerc,2019,20,2
+20,27/10/2024,Gran Premio de la Ciudad de México,Mexico,Mexico City,Autodromo Hermanos Rodriguez,1963,71,4.304,305.354,1:17.774,Valtteri Bottas,2021,17,3
+21,03/11/2024,Lenovo Grande Prêmio de São Paulo,Brazil,São Paulo,Autodromo José Carlos Pace,1973,71,4.309,305.879,1:10.540,Valtteri Bottas,2018,15,2
+22,23/11/2024,Heineken Silver Las Vegas GP,United States,Las Vegas,Las Vegas Strip Circuit,2023,50,6.201,309.958,1:34.876,Lando Norris,2024,17,2
+23,01/12/2024,Qatar Airways Qatar GP,Qatar,Qatar,Lusail International Circuit,2021,57,5.419,308.611,1:22.384,Lando Norris,2024,16,1
+24,08/12/2024,Etihad Airways Abu Dhabi GP,United Arab Emirates,Yas Island,Yas Marina Circuit,2009,58,5.281,306.183,1:25.637,Kevin Magnussen,2024,16,2
