@@ -1,13 +1,13 @@
 # Formula 1 Datasets
 
-**Datasets & Analyses for Formula 1 World Championship**
+### **Datasets & Analyses for Formula 1 World Championship**
 
 <!-- ![F1 logo](https://i.ibb.co/0Cv5J79/f1-logo-present.png) -->
-![F1 Logo](F1_2023_logo.png)
+![F1 Logo](F1_75_logo.png)
 
-Hello there! You are viewing my repository, dedicated to **Formula 1 World Championship**, which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
+Hello everyone! You are viewing my repository, dedicated to **Formula 1 World Championship** which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
 
-As a data science enthusiast and have been following F1 for over two decades, my aim here is to make datasets and to enable analyses on drivers and teams with regards to their race results and other important sessions throughout the seasons.
+As an experienced data scientist and have been following F1 for over two decades, I have high-level of passion to make datasets and enable analyses on drivers & teams with regards to their race results, qualifying results, plus other sessions throughout the seasons.
 
 ## Source
 
@@ -21,15 +21,15 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 
 **Here are the datasets you can find:**
 
-- 2019 - 2024 Season Race Results
-- 2019 - 2023 Season Race Calendar
-- 2019 - 2023 Season Drivers
-- 2021 - 2023 Season Teams
-- 2022 - 2024 Season Qualifying Results
+- 2019 - 2025 Season Race Results
+- 2019 - 2024 Season Race Calendar
+- 2019 - 2024 Season Drivers
+- 2021 - 2024 Season Teams
+- 2022 - 2025 Season Qualifying Results
 - 2021 & 2024 Season Sprint Qualifying Results
-- 2022 - 2023 Season Sprint Race Results
+- 2022 - 2024 Season Sprint Race Results
 - 2023 Season Sprint Shootout Results
-- 2022 - 2023 Season Driver of the Day Vote Results
+- 2022 - 2024 Season Driver of the Day Vote Results
 - Driver Ratings from Codemasters F1 2020 Official Video Game
 - Driver Ratings from EA & Codemasters F1 2021 / F1 22 / F1 23 Official Video Game
 - Race Results from Previous Seasons (2013 - 2018)
@@ -47,9 +47,9 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 
 ## Current & Future Plans
 
-**2024 Season has ended!** This means all datasets that correspond to the latest season are now fully available, as well as the right time to prepare the analysis!
+**2025 Season is underway!** This means new datasets are presented and updated over time, especially when grands prix are completed.
 
-Concurrently, my another objective is to publish **2023 Season analyses** at any time, thus these two will be released in a short time hopefully...
+Concurrently, my objective is to publish **2023 & 2024 Season analyses** at any time, thus these two will be published when they are fully prepared.
 
 Meanwhile, although not carried out yet, the older season analyses might be revised for improved visuals.
 
