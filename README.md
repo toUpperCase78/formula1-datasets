@@ -26,8 +26,8 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 - 2019 - 2024 Season Drivers
 - 2021 - 2024 Season Teams
 - 2022 - 2025 Season Qualifying Results
-- 2021 & 2024 Season Sprint Qualifying Results
-- 2022 - 2024 Season Sprint Race Results
+- 2021, 2024 & 2025 Season Sprint Qualifying Results
+- 2022 - 2025 Season Sprint Race Results
 - 2023 Season Sprint Shootout Results
 - 2022 - 2024 Season Driver of the Day Vote Results
 - Driver Ratings from Codemasters F1 2020 Official Video Game
@@ -47,7 +47,7 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 
 ## Current & Future Plans
 
-**2025 Season is underway!** This means new datasets are presented and updated over time, especially when grands prix are completed.
+**2025 Season is underway!** This means new datasets are presented and updated over time, especially when grands prix are completed this season.
 
 Concurrently, my objective is to publish **2023 & 2024 Season analyses** at any time, thus these two will be published when they are fully prepared.
 
