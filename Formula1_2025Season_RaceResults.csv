@@ -2,7 +2,7 @@ Track,Position,No,Driver,Team,Starting Grid,Laps,Time/Retired,Points,Set Fastest
 Australia,1,4,Lando Norris,McLaren Mercedes,1,57,1:42:06.304,25,Yes,1:22.167
 Australia,2,1,Max Verstappen,Red Bull Racing Honda RBPT,3,57,+0.895,18,No,1:23.081
 Australia,3,63,George Russell,Mercedes,4,57,+8.481,15,No,1:25.065
-Australia,4,12,Andrea Kimi Antonelli,Mercedes,16,57,+10.135,12,No,1:24.901
+Australia,4,12,Kimi Antonelli,Mercedes,16,57,+10.135,12,No,1:24.901
 Australia,5,23,Alexander Albon,Williams Mercedes,6,57,+12.773,10,No,1:24.597
 Australia,6,18,Lance Stroll,Aston Martin Aramco Mercedes,13,57,+17.413,8,No,1:25.538
 Australia,7,27,Nico Hulkenberg,Kick Sauber Ferrari,17,57,+18.423,6,No,1:25.243
@@ -19,3 +19,23 @@ Australia,NC,14,Fernando Alonso,Aston Martin Aramco Mercedes,12,32,DNF,0,No,1:28
 Australia,NC,55,Carlos Sainz,Williams Mercedes,10,0,DNF,0,No,
 Australia,NC,7,Jack Doohan,Alpine Renault,14,0,DNF,0,No,
 Australia,NC,6,Isack Hadjar,Racing Bulls Honda RBPT,11,0,DNF,0,No,
+China,1,81,Oscar Piastri,McLaren Mercedes,1,56,1:30:55.026,25,No,1:35.520
+China,2,4,Lando Norris,McLaren Mercedes,3,56,+9.748,18,No,1:35.454
+China,3,63,George Russell,Mercedes,2,56,+11.097,15,No,1:35.816
+China,4,1,Max Verstappen,Red Bull Racing Honda RBPT,4,56,+16.656,12,No,1:35.488
+China,5,31,Esteban Ocon,Haas Ferrari,11,56,+49.969,10,No,1:35.740
+China,6,12,Kimi Antonelli,Mercedes,8,56,+53.748,8,No,1:36.046
+China,7,23,Alexander Albon,Williams Mercedes,10,56,+56.321,6,No,1:36.254
+China,8,87,Oliver Bearman,Haas Ferrari,17,56,+61.303,4,No,1:36.363
+China,9,18,Lance Stroll,Aston Martin Aramco Mercedes,14,56,+70.204,2,No,1:36.044
+China,10,55,Carlos Sainz,Williams Mercedes,15,56,+76.387,1,No,1:36.779
+China,11,6,Isack Hadjar,Racing Bulls Honda RBPT,7,56,+78.875,0,No,1:35.868
+China,12,30,Liam Lawson,Red Bull Racing Honda RBPT,20,56,+81.147,0,No,1:35.985
+China,13,7,Jack Doohan,Alpine Renault,18,56,+88.401,0,No,1:36.424
+China,14,5,Gabriel Bortoleto,Kick Sauber Ferrari,19,55,+1 lap,0,No,1:35.874
+China,15,27,Nico Hulkenberg,Kick Sauber Ferrari,12,55,+1 lap,0,No,1:37.275
+China,16,22,Yuki Tsunoda,Racing Bulls Honda RBPT,9,55,+1 lap,0,No,1:35.871
+China,NC,14,Fernando Alonso,Aston Martin Aramco Mercedes,13,4,DNF,0,No,1:39.256
+China,DQ,16,Charles Leclerc,Ferrari,6,0,DSQ,0,No,1:36.157
+China,DQ,44,Lewis Hamilton,Ferrari,5,0,DSQ,0,Yes,1:35.069
+China,DQ,10,Pierre Gasly,Alpine Renault,16,0,DSQ,0,No,1:36.425
