@@ -34,12 +34,18 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 - Driver Ratings from EA & Codemasters F1 2021 / F1 22 / F1 23 Official Video Game
 - Race Results from Previous Seasons (2013 - 2018)
 
+Meanwhile, you can find the pictures of all drivers, team cars for 2023-2025 seasons; plus the race circuits that were organized for F1 in recent years...
+
 ## Season Analyses
 
-**I lastly pubslihed 2022 Season analyses here! I highly recommend you to read everything and examine the visuals to learn what happened in the previous season!** The links belonging to this one and the previous season analyses are found in the table below:
+**Finally, the long awaited 2024 Season analyses are available! I highly recommend you to read everything and examine the visuals to re-live what happened in the previous season!** _(2023 Season analyses is still in progress...)_
+
+Here are the direct links for the analyses of the latest season and the previous ones in the table below:
 
 | F1 Season Analyses |
 |--------------------|
+| [F1 2024 Season Analyses](F1_2024Season_analysis.ipynb)|
+| F1 2023 Season Analyses|
 | [F1 2022 Season Analyses](F1_2022Season_Analysis.ipynb)|
 | [F1 2021 Season Analyses](F1_2021Season_Analysis.ipynb)|
 | [F1 2020 Season Analyses](F1_2020season_analysis.ipynb)|
@@ -49,7 +55,7 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 
 **2025 Season is underway!** This means new datasets are presented and updated over time, especially when grands prix are completed this season.
 
-Concurrently, my objective is to publish **2023 & 2024 Season analyses** at any time, thus these two will be published when they are fully prepared.
+At last, I finally published the **2024 Season analyses** and is now accessible! The next thing is to prepare the **2023 Season analyses** in the most reasonable time possible.
 
 Meanwhile, although not carried out yet, the older season analyses might be revised for improved visuals.
 
