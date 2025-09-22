@@ -318,7 +318,7 @@ Italy,17,43,Franco Colapinto,Alpine Renault,17,52,+1 lap,0,No,1:22.239
 Italy,18,18,Lance Stroll,Aston Martin Aramco Mercedes,16,52,+1 lap,0,No,1:22.164
 Italy,NC,14,Fernando Alonso,Aston Martin Aramco Mercedes,8,24,DNF,0,No,1:23.757
 Italy,NC,27,Nico Hulkenberg,Kick Sauber Ferrari,12,0,DNS,0,No,
-Azerbaijan,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,51,1:33:26.408,25,No,1:43.388
+Azerbaijan,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,51,1:33:26.408,25,Yes,1:43.388
 Azerbaijan,2,63,George Russell,Mercedes,5,51,+14.609,18,No,1:43.754
 Azerbaijan,3,55,Carlos Sainz,Williams Mercedes,2,51,+19.199,15,No,1:43.972
 Azerbaijan,4,12,Kimi Antonelli,Mercedes,4,51,+21.760,12,No,1:44.091
@@ -338,3 +338,4 @@ Azerbaijan,17,18,Lance Stroll,Aston Martin Aramco Mercedes,14,51,+96.392,0,No,1:
 Azerbaijan,18,10,Pierre Gasly,Alpine Renault,18,50,+1 lap,0,No,1:45.492
 Azerbaijan,19,43,Franco Colapinto,Alpine Renault,16,50,+1 lap,0,No,1:46.055
 Azerbaijan,NC,81,Oscar Piastri,McLaren Mercedes,9,0,DNF,0,No,
+
