@@ -287,7 +287,7 @@ Netherlands,6,87,Oliver Bearman,Haas Ferrari,20,72,+9.044,8,No,1:13.950
 Netherlands,7,18,Lance Stroll,Aston Martin Aramco Mercedes,19,72,+9.497,6,No,1:13.822
 Netherlands,8,14,Fernando Alonso,Aston Martin Aramco Mercedes,10,72,+11.709,4,No,1:13.719
 Netherlands,9,22,Yuki Tsunoda,Red Bull Racing Honda RBPT,12,72,+13.597,2,No,1:14.354
-Netherlands,10,31,Esteban Ocon,Haas Ferrar,18,72,+14.063,1,No,1:13.986
+Netherlands,10,31,Esteban Ocon,Haas Ferrari,18,72,+14.063,1,No,1:13.986
 Netherlands,11,43,Franco Colapinto,Alpine Renault,16,72,+14.511,0,No,1:13.049
 Netherlands,12,30,Liam Lawson,Racing Bulls Honda RBPT,8,72,+17.063,0,No,1:13.879
 Netherlands,13,55,Carlos Sainz,Williams Mercedes,9,72,+17.376,0,No,1:13.808
@@ -338,4 +338,23 @@ Azerbaijan,17,18,Lance Stroll,Aston Martin Aramco Mercedes,14,51,+96.392,0,No,1:
 Azerbaijan,18,10,Pierre Gasly,Alpine Renault,18,50,+1 lap,0,No,1:45.492
 Azerbaijan,19,43,Franco Colapinto,Alpine Renault,16,50,+1 lap,0,No,1:46.055
 Azerbaijan,NC,81,Oscar Piastri,McLaren Mercedes,9,0,DNF,0,No,
-
+Singapore,1,63,George Russell,Mercedes,1,62,1:40:22.367,25,No,1:35.676
+Singapore,2,1,Max Verstappen,Red Bull Racing Honda RBPT,2,62,+5.430,18,No,1:35.649
+Singapore,3,4,Lando Norris,McLaren Mercedes,5,62,+6.066,15,No,1:35.555
+Singapore,4,81,Oscar Piastri,McLaren Mercedes,3,62,+8.146,12,No,1:35.408
+Singapore,5,12,Kimi Antonelli,Mercedes,4,62,+33.681,10,No,1:35.303
+Singapore,6,16,Charles Leclerc,Ferrari,7,62,+45.996,8,No,1:35.983
+Singapore,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,10,62,+80.667,6,No,1:35.862
+Singapore,8,44,Lewis Hamilton,Ferrari,6,62,+85.251,4,Yes,1:33.808
+Singapore,9,87,Oliver Bearman,Haas Ferrari,9,62,+93.527,2,No,1:36.201
+Singapore,10,55,Carlos Sainz,Williams Mercedes,18,62,+1 lap,1,No,1:34.963
+Singapore,11,6,Isack Hadjar,Racing Bulls Honda RBPT,8,61,+1 lap,0,No,1:36.938
+Singapore,12,22,Yuki Tsunoda,Red Bull Racing Honda RBPT,13,61,+1 lap,0,No,1:36.831
+Singapore,13,18,Lance Stroll,Aston Martin Aramco Mercedes,15,61,+1 lap,0,No,1:35.851
+Singapore,14,23,Alexander Albon,Williams Mercedes,20,61,+1 lap,0,No,1:35.648
+Singapore,15,30,Liam Lawson,Racing Bulls Honda RBPT,12,61,+1 lap,0,No,1:35.641
+Singapore,16,43,Franco Colapinto,Alpine Renault,16,61,+1 lap,0,No,1:37.182
+Singapore,17,5,Gabriel Bortoleto,Kick Sauber Ferrari,14,61,+1 lap,0,No,1:37.126
+Singapore,18,31,Esteban Ocon,Haas Ferrari,17,61,+1 lap,0,No,1:36.646
+Singapore,19,10,Pierre Gasly,Alpine Renault,19,61,+1 lap,0,No,1:34.573
+Singapore,20,27,Nico Hulkenberg,Kick Sauber Ferrari,11,61,+1 lap,0,No,1:35.404
