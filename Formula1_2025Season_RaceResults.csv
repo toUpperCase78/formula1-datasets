@@ -406,7 +406,7 @@ Brazil,5,81,Oscar Piastri,McLaren Mercedes,4,71,+15.749,10,No,1:12.742
 Brazil,6,87,Oliver Bearman,Haas Ferrari,8,71,+29.630,8,No,1:13.483
 Brazil,7,30,Liam Lawson,Racing Bulls Honda RBPT,7,71,+52.642,6,No,1:14.029
 Brazil,8,6,Isack Hadjar,Racing Bulls Honda RBPT,5,71,+52.873,4,No,1:13.694
-Brazil,9,27,Nico Hulkenberg,Kick Sauber Ferrari,10,+53.324,2,No,1:13.474
+Brazil,9,27,Nico Hulkenberg,Kick Sauber Ferrari,71,10,+53.324,2,No,1:13.474
 Brazil,10,10,Pierre Gasly,Alpine Renault,9,71,+53.914,1,No,1:13.736
 Brazil,11,23,Alexander Albon,Williams Mercedes,12,71,+54.184,0,Yes,1:12.400
 Brazil,12,31,Esteban Ocon,Haas Ferrari,20,71,+54.696,0,No,1:13.481
@@ -418,3 +418,4 @@ Brazil,17,22,Yuki Tsunoda,Red Bull Racing Honda RBPT,17,71,+69.176,0,No,1:12.774
 Brazil,NC,44,Lewis Hamilton,Ferrari,13,37,DNF,0,No,1:13.844
 Brazil,NC,16,Charles Leclerc,Ferrari,3,5,DNF,0,No,1:43.560
 Brazil,NC,5,Gabriel Bortoleto,Kick Sauber Ferrari,18,0,DNF,0,No,
+
