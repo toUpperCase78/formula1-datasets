@@ -400,7 +400,7 @@ Mexico,NC,27,Nico Hulkenberg,Kick Sauber Ferrari,13,25,DNF,0,No,1:23.091
 Mexico,NC,30,Liam Lawson,Racing Bulls Honda RBPT,15,5,DNF,0,No,1:25.124
 Brazil,1,4,Lando Norris,McLaren Mercedes,1,71,1:32:01.596,25,No,1:13.040
 Brazil,2,12,Kimi Antonelli,Mercedes,2,71,+10.388,18,No,1:13.123
-Brazil,3,1,Max Verstappen,Red Bull Racing Honda RBPT,19,71,+10,750,15,No,1:12.447
+Brazil,3,1,Max Verstappen,Red Bull Racing Honda RBPT,19,71,+10.750,15,No,1:12.447
 Brazil,4,63,George Russell,Mercedes,6,71,+15.267,12,No,1:13.097
 Brazil,5,81,Oscar Piastri,McLaren Mercedes,4,71,+15.749,10,No,1:12.742
 Brazil,6,87,Oliver Bearman,Haas Ferrari,8,71,+29.630,8,No,1:13.483
@@ -408,7 +408,7 @@ Brazil,7,30,Liam Lawson,Racing Bulls Honda RBPT,7,71,+52.642,6,No,1:14.029
 Brazil,8,6,Isack Hadjar,Racing Bulls Honda RBPT,5,71,+52.873,4,No,1:13.694
 Brazil,9,27,Nico Hulkenberg,Kick Sauber Ferrari,10,+53.324,2,No,1:13.474
 Brazil,10,10,Pierre Gasly,Alpine Renault,9,71,+53.914,1,No,1:13.736
-Brazil,11,23,Alexander Albon,Williams Mercedes,12,71,+54.184,0,No,1:12.400
+Brazil,11,23,Alexander Albon,Williams Mercedes,12,71,+54.184,0,Yes,1:12.400
 Brazil,12,31,Esteban Ocon,Haas Ferrari,20,71,+54.696,0,No,1:13.481
 Brazil,13,55,Carlos Sainz,Williams Mercedes,15,71,+55.420,0,No,1:13.683
 Brazil,14,14,Fernando Alonso,Aston Martin Aramco Mercedes,11,71,+55.766,0,No,1:13.312
