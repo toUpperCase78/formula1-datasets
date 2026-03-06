@@ -44,6 +44,7 @@ Here are the direct links for the analyses of the latest season and the previous
 
 | F1 Season Analyses |
 |--------------------|
+| F1 2025 Season Analyses|
 | [F1 2024 Season Analyses](F1_2024Season_analysis.ipynb)|
 | F1 2023 Season Analyses|
 | [F1 2022 Season Analyses](F1_2022Season_Analysis.ipynb)|
@@ -53,10 +54,10 @@ Here are the direct links for the analyses of the latest season and the previous
 
 ## Current & Future Plans
 
-**2025 Season is underway!** This means new datasets are presented and updated over time, especially when grands prix are completed this season.
+**2026 Season has started!** With 11 teams and 22 drivers, as well as new car regulations, we are all ready for the great show! This also means new datasets and updates will be processed, after each completed grands prix.
 
-At last, I finally published the **2024 Season analyses** and is now accessible! The next thing is to prepare the **2023 Season analyses** in the most reasonable time possible.
+Meanwhile, I'm on my way to publish the **2025 Season Analysis** in any time.
 
-Meanwhile, although not carried out yet, the older season analyses might be revised for improved visuals.
+Besides, there might be re-organization of all files for better handling of this repo.
 
-Besides, there exist all race results of 2013-2018 seasons right now, contained in a separate folder and retroactively more previous seasons will be uploaded some time.
+Morover, I'm still aware that race results of previous seasons haven't been extended yet (limited to 2013-2018), as they were contained in a separate folder. I have the plan to add more seasons in my free time possible.
