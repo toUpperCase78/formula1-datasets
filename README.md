@@ -3,7 +3,7 @@
 ### **Datasets & Analyses for Formula 1 World Championship**
 
 <!-- ![F1 logo](https://i.ibb.co/0Cv5J79/f1-logo-present.png) -->
-![F1 Logo](F1_75_logo.png)
+![F1 Logo](F1_2026_logo.png)
 
 Hello everyone! You are viewing my repository, dedicated to **Formula 1 World Championship** which is one of the most prestigious motorsport discipline and is spectated by millions of people worldwide on live, TV or online sources.
 
@@ -21,11 +21,11 @@ _If you'd like to use these datasets and wish to perform your own analyses in yo
 
 **Here are the datasets you can find:**
 
-- 2019 - 2025 Season Race Results
+- 2019 - 2026 Season Race Results
 - 2019 - 2024 Season Race Calendar
 - 2019 - 2024 Season Drivers
 - 2021 - 2024 Season Teams
-- 2022 - 2025 Season Qualifying Results
+- 2022 - 2026 Season Qualifying Results
 - 2021, 2024 & 2025 Season Sprint Qualifying Results
 - 2022 - 2025 Season Sprint Race Results
 - 2023 Season Sprint Shootout Results
@@ -54,10 +54,10 @@ Here are the direct links for the analyses of the latest season and the previous
 
 ## Current & Future Plans
 
-**2026 Season has started!** With 11 teams and 22 drivers, as well as new car regulations, we are all ready for the great show! This also means new datasets and updates will be processed, after each completed grands prix.
+**2026 Season has started!** With 11 teams and 22 drivers, as well as new car regulations, we are all ready for the great show! This also means new datasets and updates will be processed, after each completed grand prix.
 
 Meanwhile, I'm on my way to publish the **2025 Season Analysis** in any time.
 
-Besides, there might be re-organization of all files for better handling of this repo.
+Besides, there might be re-organization of all files for better handling of this repo altogether.
 
 Morover, I'm still aware that race results of previous seasons haven't been extended yet (limited to 2013-2018), as they were contained in a separate folder. I have the plan to add more seasons in my free time possible.
