@@ -45,12 +45,12 @@ Here are the direct links for the analyses of the latest season and the previous
 | F1 Season Analyses |
 |--------------------|
 | F1 2025 Season Analyses|
-| [F1 2024 Season Analyses](F1_2024Season_analysis.ipynb)|
+| [F1 2024 Season Analyses](F1_2024season_analysis.ipynb)|
 | F1 2023 Season Analyses|
-| [F1 2022 Season Analyses](F1_2022Season_Analysis.ipynb)|
-| [F1 2021 Season Analyses](F1_2021Season_Analysis.ipynb)|
-| [F1 2020 Season Analyses](F1_2020season_analysis.ipynb)|
-| [F1 2019 Season Analyses](F1_2019season_analysis.ipynb)|
+| [F1 2022 Season Analyses](F1_2022season_analysis.ipynb)|
+| [F1 2021 Season Analyses](F1_2021season_analysis.ipynb)|
+| [F1 2020 Season Analyses](F1_2020season_Analysis.ipynb)|
+| [F1 2019 Season Analyses](F1_2019season_Analysis.ipynb)|
 
 ## Current & Future Plans
 
