@@ -137,7 +137,7 @@ Barcelona-Catalunya,3,1,Lando Norris,McLaren Mercedes,4,66,+23.719,15,No,1:20.23
 Barcelona-Catalunya,4,3,Max Verstappen,Red Bull Racing Red Bull Ford,5,66,+40.497,12,No,1:20.230
 Barcelona-Catalunya,5,81,Oscar Piastri,McLaren Mercedes,7,66,+58.661,10,No,1:20.835
 Barcelona-Catalunya,6,6,Isack Hadjar,Red Bull Racing Red Bull Ford,6,65,+1 lap,8,No,1:20.150
-Barcelona-Catalunya,7,10,Pierre Gasly,Alpine Renault,14,65,+1 lap,6,No,1:21.960
+Barcelona-Catalunya,7,10,Pierre Gasly,Alpine Mercedes,14,65,+1 lap,6,No,1:21.960
 Barcelona-Catalunya,8,30,Liam Lawson,Racing Bulls Red Bull Ford,8,65,+1 lap,4,No,1:22.691
 Barcelona-Catalunya,9,41,Arvid Lindblad,Racing Bulls Red Bull Ford,11,65,+1 lap,2,No,1:21.914
 Barcelona-Catalunya,10,43,Franco Colapinto,Alpine Mercedes,13,65,+1 lap,1,No,1:22.449
@@ -241,3 +241,25 @@ Hungary,19,87,Oliver Bearman,Haas Ferrari,17,68,+2 laps,0,No,1:25.884
 Hungary,NC,81,Oscar Piastri,McLaren Mercedes,3,55,DNF,0,No,1:23.896
 Hungary,NC,11,Sergio Perez,Cadillac Ferrari,22,48,DNF,0,No,1:26.342
 Hungary,NC,77,Valtteri Bottas,Cadillac Ferrari,21,13,DNF,0,No,1:27.959
+Netherlands,1,1,Lando Norris,McLaren Mercedes,1,72,2:04:44.859,25,No,1:14.321
+Netherlands,2,12,Kimi Antonelli,Mercedes,3,72,+11.536,18,No,1:14.571
+Netherlands,3,63,George Russell,Mercedes,2,72,+15.906,15,No,1:15.393
+Netherlands,4,44,Lewis Hamilton,Ferrari,5,72,+16.755,12,No,1:14.566
+Netherlands,5,16,Charles Leclerc,Ferrari,6,72,+17.258,10,Yes,1:14.230
+Netherlands,6,81,Oscar Piastri,McLaren Mercedes,4,72,+32.332,8,No,1:14.303
+Netherlands,7,30,Liam Lawson,Red Bull Racing Red Bull Ford,8,72,+79.915,6,No,1:15.435
+Netherlands,8,27,Nico Hulkenberg,Audi,13,71,+1 lap,4,No,1:16.048
+Netherlands,9,14,Fernando Alonso,Aston Martin Honda,18,71,+1 lap,2,No,1:16.946
+Netherlands,10,10,Pierre Gasly,Alpine Mercedes,11,71,+1 lap,1,No,1:16.220
+Netherlands,11,22,Yuki Tsunoda,Racing Bulls Red Bull Ford,12,71,+1 lap,0,No,1:16.639
+Netherlands,12,41,Arvid Lindblad,Racing Bulls Red Bull Ford,10,71,+1 lap,0,No,1:16.653
+Netherlands,13,5,Gabriel Bortoleto,Audi,9,71,+1 lap,0,No,1:15.515
+Netherlands,14,43,Franco Colapinto,Alpine Mercedes,14,70,+2 laps,0,No,1:15.578
+Netherlands,15,11,Sergio Perez,Cadillac Ferrari,22,70,+2 laps,0,No,1:17.523
+Netherlands,16,55,Carlos Sainz,Williams Mercedes,17,70,+2 laps,0,No,1:17.328
+Netherlands,17,23,Alexander Albon,Williams Mercedes,16,66,DNF,0,No,1:17.147
+Netherlands,NC,77,Valtteri Bottas,Cadillac Ferrari,21,61,DNF,0,No,1:17.822
+Netherlands,NC,31,Esteban Ocon,Haas Ferrari,15,52,DNF,0,No,1:17.588
+Netherlands,NC,18,Lance Stroll,Aston Martin Honda,19,45,DNF,0,No,1:17.883
+Netherlands,NC,87,Oliver Bearman,Haas Ferrari,20,2,DNF,0,No,
+Netherlands,NC,3,Max Verstappen,Red Bull Racing Red Bull Ford,7,0,DNF,0,No,
