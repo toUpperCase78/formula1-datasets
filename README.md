@@ -60,4 +60,4 @@ Meanwhile, I'm on my way to publish the **2025 Season Analysis** in any time.
 
 Besides, there might be re-organization of all files for better handling of this repo altogether.
 
-Morover, I'm still aware that race results of previous seasons haven't been extended yet (limited to 2013-2018), as they were contained in a separate folder. I have the plan to add more seasons in my free time possible.
+Moreover, I'm still aware that race results of previous seasons haven't been extended yet (limited to 2013-2018), as they were contained in a separate folder. I have the plan to add more seasons in my free time possible.
